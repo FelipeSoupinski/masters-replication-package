@@ -1,0 +1,208 @@
+{
+  "scenarios": [
+    {
+      "id": 1,
+      "title": "Scenario 1 (of 15):",
+      "text": "Company 1 is a mature low-code development platform experiencing significant challenges in developer engagement and ecosystem vitality. After five years in the market, the platform's Developer Relations team has detected critical signals of potential technological and community decline during the past two quarters, which could threaten its market positioning and future growth.",
+      "list": [
+        "Decrease in participation in online events",
+        "Fewer contributions to documentation",
+        "Drop in the number of new extensions/plugins",
+        "Increase in complaints about unresolved issues",
+        "Competitors gaining more attention on social media"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Scenario 2 (of 15):",
+      "text": "Company 2 has developed an open-source microservices framework that experienced rapid adoption, creating a complex ecosystem with multiple implementations and expanding functionality. However, this rapid growth has led to significant fragmentation and potential sustainability challenges that could undermine the framework's long-term coherence and developer trust.",
+      "list": [
+        "More than 200 third-party plugins",
+        "Multiple versions being maintained simultaneously",
+        "Different implementations for various programming languages",
+        "Significant forks with divergent functionalities",
+        "User confusion about which version/implementation to use",
+        "Incompatibilities between plugins",
+        "Overload on the team to maintain compatibility",
+        "Divergence in development practices between communities"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Scenario 3 (of 15):",
+      "text": "Company 3 is strategically repositioning its popular Integrated Development Environment (IDE) from a traditional perpetual licensing model to a modern, cloud-enabled subscription framework. This transformation presents a critical juncture that could potentially reshape its relationship with an established developer community, presenting both significant opportunities and substantial risks.",
+      "list": [
+        "Large base of free and paid plugins",
+        "Active community of extension developers",
+        "Strong presence in corporate environments",
+        "Integration with various third-party tools",
+        "Possible community resistance to change",
+        "Risk of losing plugin developers",
+        "Need to maintain compatibility with existing integrations",
+        "Competitors may take advantage of the transition to attract users"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Scenario 4 (of 15):",
+      "text": "Company 4 represents a remarkable case of exponential growth in the API platform space, expanding from 1,000 to 50,000 developers in just 18 months. While this rapid scaling demonstrates significant market validation, it has also exposed critical challenges in maintaining consistent quality, support, and developer experience across a complex, multilingual ecosystem.",
+      "list": [
+        "SDKs for 12 different languages",
+        "Integration marketplace",
+        "Documentation in 4 languages",
+        "Technical ambassador program",
+        "Increasing response time in support",
+        "Outdated documentation in some languages",
+        "Inconsistencies between different SDKs",
+        "Difficulty in maintaining the quality of integrations in the marketplace",
+        "Overload on technical ambassadors"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Scenario 5 (of 15):",
+      "text": "Company 5 manages a front-end framework with an eight-year legacy, now confronting the complex dynamics of technological evolution and generational shift in developer preferences. The platform faces the delicate challenge of balancing its substantial existing user base with the need to remain relevant and attractive to emerging developer talent.",
+      "list": [
+        "New web technologies have emerged strongly",
+        "Younger developers prefer more modern alternatives",
+        "Companies have started migrating to new frameworks",
+        "Key contributors have started leaving",
+        "There is still a large installed base",
+        "Many companies depend on the framework",
+        "There is a robust ecosystem of components and tools",
+        "The long-standing community is still active"
+      ]
+    },
+    {
+      "id": 6,
+      "title": "Scenario 6 (of 15):",
+      "text": "Company 6, a NoSQL database provider, has achieved remarkable growth in emerging markets, particularly in Asia and Latin America. However, this global expansion has revealed profound challenges related to cultural adaptation, linguistic diversity, and the need for a more inclusive and regionally sensitive approach to community engagement and product development.",
+      "list": [
+        "Predominantly in English",
+        "Centered in North American and European communities",
+        "Maintained by a primarily Western team",
+        "Language barriers in documentation and support",
+        "Different cultural expectations of community",
+        "Time zone complicating events and support",
+        "Different usage patterns by region",
+        "Need to adapt educational materials"
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Scenario 7 (of 15):",
+      "text": "Company 7's microservices framework is experiencing a critical leadership and knowledge transfer crisis, characterized by the departure of key maintainers and a resultant knowledge bottleneck. This situation poses significant risks to the project's continuity, community confidence, and potential long-term survival.",
+      "list": [
+        "Two of the main maintainers have left the project",
+        "Knowledge about critical parts of the architecture was centralized",
+        "Technical documentation is outdated",
+        "New contributors have difficulty taking on responsibilities",
+        "Issues are starting to pile up without resolution",
+        "The community expresses concern about the future of the framework"
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Scenario 8 (of 15):",
+      "text": "Company 8's decade-old NoSQL database system is confronting an existential challenge of technological obsolescence. The platform's architectural limitations and inability to efficiently adapt to contemporary technological requirements are creating significant pressure from increasingly sophisticated market alternatives.",
+      "list": [
+        "Performance gradually degrading",
+        "Difficulty keeping up with modern security requirements",
+        "Growing incompatibility with new technologies",
+        "Architecture difficult to modify to meet new use cases",
+        "Competitors offering more modern and efficient solutions",
+        "User base starting to migrate to other solutions"
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Scenario 9 (of 15):",
+      "text": "Company 9's front-end development framework is displaying alarming symptoms of community disengagement and potential technological stagnation. These indicators suggest a critical need for strategic intervention to revitalize developer interest and maintain the platform's competitive positioning.",
+      "list": [
+        "Decrease in response rate on Stack Overflow",
+        "Reduction in the number of new contributors",
+        "Drop in the frequency of commits and pull requests",
+        "Increase in the average time to resolve issues",
+        "Low participation in community events",
+        "Decrease in the creation of educational content by the community"
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Scenario 10 (of 15):",
+      "text": "Company 10's cloud computing platform is experiencing a severe crisis of security and credibility, with multiple critical vulnerabilities threatening its market reputation and enterprise customer confidence. The situation demands immediate, comprehensive strategic response to mitigate potential long-term damage.",
+      "list": [
+        "Discovery of multiple critical vulnerabilities",
+        "Significant delays in security updates",
+        "Loss of important security certifications",
+        "Migration of corporate clients to competitors",
+        "Decrease in community trust after incidents",
+        "Difficulty maintaining compliance with new regulations"
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Scenario 11 (of 15):",
+      "text": "Company 11's mobile app development platform is confronting significant governance challenges that are eroding community trust and potentially compromising its collaborative ecosystem. The platform's centralized decision-making approach is creating increasing tension between organizational objectives and community expectations.",
+      "list": [
+        "Unilateral decisions by the central organization causing dissatisfaction in the community",
+        "Lack of transparency in roadmap changes",
+        "Conflicts between commercial objectives and community needs",
+        "Inconsistency in governance policies",
+        "Delays in approving community contributions",
+        "Poor communication about feature deprecations",
+        "Increase in public complaints from developers"
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Scenario 12 (of 15):",
+      "text": "Company 12's AI development platform is navigating a complex economic landscape, facing escalating operational challenges and diminishing financial sustainability. The platform must urgently reassess its monetization strategy and value proposition to remain competitive in an increasingly crowded and cost-sensitive market.",
+      "list": [
+        "Rising infrastructure and maintenance costs",
+        "Difficulty monetizing premium services",
+        "Competitors offering free alternatives",
+        "Decrease in financial support from sponsors",
+        "Increase in regulatory compliance costs",
+        "Limited resources for development",
+        "Drop in the number of enterprise customers"
+      ]
+    },
+    {
+      "id": 13,
+      "title": "Scenario 13 (of 15):",
+      "text": "An open-source software development platform is proactively addressing critical technical sustainability challenges, recognizing that managing code complexity and maintaining high-quality standards are essential for long-term project viability and developer engagement.",
+      "list": [
+        "Exponential growth of lines of code",
+        "Increase in project complexity",
+        "Need to reduce technical debt",
+        "Maintaining code quality",
+        "Efficient management of bugs and commits"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Scenario 14 (of 15):",
+      "text": "A technology startup is strategically tackling the multifaceted challenges of global team collaboration, seeking to optimize productivity, communication, and resource utilization across geographically distributed development teams.",
+      "list": [
+        "Coordination between teams in different time zones",
+        "Maximizing collaborative productivity",
+        "Creating value through collaboration",
+        "Efficient release management",
+        "Optimization of network resources"
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Scenario 15 (of 15):",
+      "text": "An open-source software ecosystem is proactively addressing the complex challenge of maintaining technological relevance and adaptability in a rapidly evolving digital landscape, balancing innovation with platform stability and community continuity.",
+      "list": [
+        "Maintaining technological independence",
+        "Ensuring compatibility between components",
+        "Ensuring long-term sustainability",
+        "Managing node and interconnection metrics",
+        "Adapting to technological changes without losing identity"
+      ]
+    }
+  ]
+}

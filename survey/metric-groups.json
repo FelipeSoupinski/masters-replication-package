@@ -1,0 +1,378 @@
+[
+ {
+   "Nome": "Contributors and Active Developers",
+   "Métricas": "M32, M38, M39, M65, M92, M166, M167, M179, M180, M181, M205, M210, M238",
+   "Definição": "Total de contribuidores e desenvolvedores ativos por projeto",
+   "Transformação": "Agregação de métricas de contagem de desenvolvedores",
+   "Tipo": "Social",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Variety Metrics",
+   "Métricas": "M13, M61, M62, M111, M112, M113, M114, M115, M126, M152, M155, M172, M201",
+   "Definição": "Variedade em produtos, projetos, tecnologias, parceiros e contribuidores",
+   "Transformação": "Agregação de métricas de variedade",
+   "Tipo": "Negócios",
+   "Classificação": "Criação de Nicho"
+ },
+ {
+   "Nome": "Centrality and Connectedness",
+   "Métricas": "M2, M5, M14, M15, M73, M76, M99, M132, M135, M137, M202, M239",
+   "Definição": "Métricas de centralidade e conectividade no ecossistema",
+   "Transformação": "Agregação de métricas de centralidade",
+   "Tipo": "Social",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Lines of Code Metrics",
+   "Métricas": "M22, M23, M24, M81, M219, M220, M221, M222, M223",
+   "Definição": "Métricas relacionadas a alterações em linhas de código (adicionadas, removidas, alteradas)",
+   "Transformação": "Granularidade temporal e agregação de alterações em código",
+   "Tipo": "Técnico",
+   "Classificação": "Produtividade"
+ },
+ {
+   "Nome": "Community Communication",
+   "Métricas": "M45, M66, M83, M213, M228, M232, M235, M236, M237",
+   "Definição": "Atividade e responsividade nas listas de discussão e comunicação",
+   "Transformação": "Agregação de métricas de comunicação",
+   "Tipo": "Social",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Bug Tracking",
+   "Métricas": "M3, M33, M69, M91, M101, M102, M212, M233, M246",
+   "Definição": "Atividade e tempo de resposta no rastreamento de bugs",
+   "Transformação": "Agregação de métricas de bugs",
+   "Tipo": "Técnico",
+   "Classificação": "Produtividade"
+ },
+ {
+   "Nome": "Community Contribution",
+   "Métricas": "M1, M8, M27, M52, M59, M60, M72, M206, M214",
+   "Definição": "Métricas de esforço e contribuição da comunidade",
+   "Transformação": "Agregação de métricas de contribuição",
+   "Tipo": "Social",
+   "Classificação": "Produtividade"
+ },
+ {
+   "Nome": "Total Factor Productivity",
+   "Métricas": "M4, M124, M144, M145, M146, M147, M197, M199",
+   "Definição": "Produtividade total dos fatores e melhorias ao longo do tempo",
+   "Transformação": "Agregação de métricas de produtividade",
+   "Tipo": "Negócios",
+   "Classificação": "Produtividade"
+ },
+ {
+   "Nome": "Network Resources",
+   "Métricas": "M28, M29, M131, M149, M151, M154, M243, M244",
+   "Definição": "Métricas relacionadas à rede de colaboração e recursos",
+   "Transformação": "Agregação de métricas de rede",
+   "Tipo": "Social",
+   "Classificação": "Criação de Nicho"
+ },
+ {
+   "Nome": "Project Lifecycle",
+   "Métricas": "M182, M185, M242, M247, M250, M254, M255, M259",
+   "Definição": "Métricas relacionadas ao ciclo de vida, abandono e revitalização",
+   "Transformação": "Agregação de métricas de ciclo de vida",
+   "Tipo": "Técnico",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Repository Metrics",
+   "Métricas": "M183, M184, M186, M187, M188, M189, M190, M191",
+   "Definição": "Métricas relacionadas a repositórios",
+   "Transformação": "Agregação de métricas de repositório",
+   "Tipo": "Técnico",
+   "Classificação": "Produtividade"
+ },
+ {
+   "Nome": "Number of Commits",
+   "Métricas": "M36, M93, M217, M224, M225, M226, M227",
+   "Definição": "Número total de commits contendo código fonte documentação e tradução",
+   "Transformação": "Granularidade temporal e agregação de métricas similares de commits",
+   "Tipo": "Técnico",
+   "Classificação": "Produtividade"
+ },
+ {
+   "Nome": "Market Share and Activity",
+   "Métricas": "M84, M85, M138, M139, M153, M165, M207",
+   "Definição": "Participação de mercado e atividade como indicadores de robustez",
+   "Transformação": "Agregação de métricas de mercado",
+   "Tipo": "Negócios",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Financial Health",
+   "Métricas": "M58, M95, M96, M97, M128, M129, M130",
+   "Definição": "Métricas de saúde financeira, solvência e participação financeira",
+   "Transformação": "Agregação de métricas financeiras",
+   "Tipo": "Negócios",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Ecosystem Connections",
+   "Métricas": "M86, M88, M89, M90, M98, M116, M134",
+   "Definição": "Conexões entre ecossistemas e parcerias",
+   "Transformação": "Agregação de métricas de conexões",
+   "Tipo": "Social",
+   "Classificação": "Criação de Nicho"
+ },
+ {
+   "Nome": "Downloads and Usage",
+   "Métricas": "M42, M77, M87, M108, M174, M241",
+   "Definição": "Número de downloads e uso do software",
+   "Transformação": "Agregação de métricas de uso",
+   "Tipo": "Negócios",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Satisfaction and Rating",
+   "Métricas": "M74, M75, M110, M176, M177, M248",
+   "Definição": "Satisfação, reputação e avaliações",
+   "Transformação": "Agregação de métricas de satisfação",
+   "Tipo": "Social",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Ecosystem Structure",
+   "Métricas": "M16, M119, M120, M121, M195, M196",
+   "Definição": "Estrutura, previsibilidade e persistência do ecossistema",
+   "Transformação": "Agregação de métricas estruturais",
+   "Tipo": "Técnico",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Extension Metrics",
+   "Métricas": "M164, M168, M169, M170, M175, M178",
+   "Definição": "Métricas relacionadas a extensões",
+   "Transformação": "Agregação de métricas de extensões",
+   "Tipo": "Técnico",
+   "Classificação": "Criação de Nicho"
+ },
+ {
+   "Nome": "Knowledge Creation",
+   "Métricas": "M7, M17, M67, M68, M82",
+   "Definição": "Criação e qualidade de conhecimento e artefatos",
+   "Transformação": "Agregação de métricas de conhecimento",
+   "Tipo": "Social",
+   "Classificação": "Criação de Nicho"
+ },
+ {
+   "Nome": "User Base",
+   "Métricas": "M48, M49, M78, M80, M109",
+   "Definição": "Base de usuários e interesse",
+   "Transformação": "Agregação de métricas de usuários",
+   "Tipo": "Social",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Developer Experience",
+   "Métricas": "M10, M25, M31, M37, M41",
+   "Definição": "Experiência e atividade dos desenvolvedores",
+   "Transformação": "Agregação de métricas de experiência",
+   "Tipo": "Social",
+   "Classificação": "Produtividade"
+ },
+ {
+   "Nome": "Files Changed",
+   "Métricas": "M18, M19, M44, M218",
+   "Definição": "Número de arquivos que foram alterados ou total de arquivos no projeto",
+   "Transformação": "Granularidade temporal e agregação de métricas de arquivos",
+   "Tipo": "Técnico",
+   "Classificação": "Produtividade"
+ },
+ {
+   "Nome": "Value Creation",
+   "Métricas": "M125, M156, M157, M200",
+   "Definição": "Criação de valor no ecossistema",
+   "Transformação": "Agregação de métricas de valor",
+   "Tipo": "Negócios",
+   "Classificação": "Criação de Nicho"
+ },
+ {
+   "Nome": "New Members",
+   "Métricas": "M30, M160, M161, M216",
+   "Definição": "Novos membros, desenvolvedores e clientes",
+   "Transformação": "Granularidade temporal de novos membros",
+   "Tipo": "Social",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Update and Maintenance",
+   "Métricas": "M163, M209, M249, M251",
+   "Definição": "Atualização e manutenção de módulos",
+   "Transformação": "Agregação de métricas de manutenção",
+   "Tipo": "Técnico",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Community Health",
+   "Métricas": "M215, M230, M253, M260",
+   "Definição": "Saúde e diversidade da comunidade",
+   "Transformação": "Agregação de métricas de saúde comunitária",
+   "Tipo": "Social",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Costs",
+   "Métricas": "M141, M142, M143, M263",
+   "Definição": "Custos de mudança, manutenção e operação",
+   "Transformação": "Agregação de métricas de custos",
+   "Tipo": "Negócios",
+   "Classificação": "Produtividade"
+ },
+ {
+   "Nome": "Platform Metrics",
+   "Métricas": "M171, M203, M204, M208",
+   "Definição": "Findability, visibilidade e crescimento da plataforma",
+   "Transformação": "Agregação de métricas de plataforma",
+   "Tipo": "Negócios",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Organizational Metrics",
+   "Métricas": "M94, M127, M133, M140",
+   "Definição": "Maturidade organizacional e estabilidade",
+   "Transformação": "Agregação de métricas organizacionais",
+   "Tipo": "Negócios",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Community Activity Rate",
+   "Métricas": "M26, M35, M229, M234",
+   "Definição": "Taxa de atividade da comunidade",
+   "Transformação": "Agregação de métricas de taxa de atividade",
+   "Tipo": "Social",
+   "Classificação": "Produtividade"
+ },
+ {
+   "Nome": "Activity Visualization",
+   "Métricas": "M9, M12, M53",
+   "Definição": "Visualizações de atividade de projetos e desenvolvedores",
+   "Transformação": "Agregação de métricas de visualização",
+   "Tipo": "Técnico",
+   "Classificação": "Produtividade"
+ },
+ {
+   "Nome": "Security and Stability",
+   "Métricas": "M231, M257, M258",
+   "Definição": "Indicadores de segurança e estabilidade",
+   "Transformação": "Agregação de métricas de segurança",
+   "Tipo": "Técnico",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Event Metrics",
+   "Métricas": "M43, M56, M79",
+   "Definição": "Eventos e participação",
+   "Transformação": "Agregação de métricas de eventos",
+   "Tipo": "Social",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Web Presence",
+   "Métricas": "M57, M63, M64",
+   "Definição": "Presença e visibilidade web",
+   "Transformação": "Agregação de métricas web",
+   "Tipo": "Social",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Developer Retention",
+   "Métricas": "M162, M245, M264",
+   "Definição": "Retenção e atividade de desenvolvedores",
+   "Transformação": "Agregação de métricas de retenção",
+   "Tipo": "Social",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Release Activity",
+   "Métricas": "M40, M54, M159",
+   "Definição": "Atividade de releases",
+   "Transformação": "Agregação de métricas de releases",
+   "Tipo": "Técnico",
+   "Classificação": "Produtividade"
+ },
+ {
+   "Nome": "Innovation and Evolution",
+   "Métricas": "M118, M193",
+   "Definição": "Entrega e medição de inovação",
+   "Transformação": "Agregação de métricas de inovação",
+   "Tipo": "Negócios",
+   "Classificação": "Criação de Nicho"
+ },
+ {
+   "Nome": "Language Support",
+   "Métricas": "M104, M173",
+   "Definição": "Suporte a idiomas",
+   "Transformação": "Agregação de métricas de idiomas",
+   "Tipo": "Técnico",
+   "Classificação": "Criação de Nicho"
+ },
+ {
+   "Nome": "Switching Costs",
+   "Métricas": "M105, M106",
+   "Definição": "Custos de mudança para alternativas",
+   "Transformação": "Agregação de métricas de mudança",
+   "Tipo": "Negócios",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Developer Collaboration",
+   "Métricas": "M6, M51",
+   "Definição": "Colaboração entre desenvolvedores",
+   "Transformação": "Agregação de métricas de colaboração",
+   "Tipo": "Social",
+   "Classificação": "Produtividade"
+ },
+ {
+   "Nome": "Node Metrics",
+   "Métricas": "M47, M192",
+   "Definição": "Métricas de nós e experiência de uso",
+   "Transformação": "Agregação de métricas de nós",
+   "Tipo": "Técnico",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Compatibility",
+   "Métricas": "M262",
+   "Definição": "Compatibilidade entre componentes",
+   "Transformação": "Métrica única de compatibilidade",
+   "Tipo": "Técnico",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Stack Overflow Metrics",
+   "Métricas": "M240",
+   "Definição": "Taxa de resposta no Stack Overflow",
+   "Transformação": "Métrica única de suporte",
+   "Tipo": "Social",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Digital Independence",
+   "Métricas": "M256",
+   "Definição": "Capacidade de personalização e evolução independente",
+   "Transformação": "Métrica única de independência",
+   "Tipo": "Negócios",
+   "Classificação": "Criação de Nicho"
+ },
+ {
+   "Nome": "Long-term Sustainability",
+   "Métricas": "M261",
+   "Definição": "Sustentabilidade a longo prazo",
+   "Transformação": "Métrica única de sustentabilidade",
+   "Tipo": "Social",
+   "Classificação": "Robustez"
+ },
+ {
+   "Nome": "Code Size",
+   "Métricas": "M211",
+   "Definição": "Tamanho do código do projeto",
+   "Transformação": "Métrica única de tamanho",
+   "Tipo": "Técnico",
+   "Classificação": "Produtividade"
+ }
+]

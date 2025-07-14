@@ -1,0 +1,769 @@
+﻿Scopus
+EXPORT DATE: 07 November 2023
+
+Kula R.G., German D.M., Ishio T., Ouni A., Inoue K.
+AUTHOR FULL NAMES: Kula, Raula Gaikovina (57188638536); German, Daniel M. (57207886015); Ishio, Takashi (8381338700); Ouni, Ali (50761492200); Inoue, Katsuro (7601540520)
+57188638536; 57207886015; 8381338700; 50761492200; 7601540520
+An exploratory study on library aging by monitoring client usage in a software ecosystem
+(2017) SANER 2017 - 24th IEEE International Conference on Software Analysis, Evolution, and Reengineering, art. no. 7884643, pp. 407 - 411, Cited 11 times.
+DOI: 10.1109/SANER.2017.7884643
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85018435832&doi=10.1109%2fSANER.2017.7884643&partnerID=40&md5=c5c1eca8685c02416fb51aa25cd439c6
+
+ABSTRACT: In recent times, use of third-party libraries has become prevalent practice in contemporary software development. Much like other code components, unmaintained libraries are a cause for concern, especially when it risks code degradation over time. Therefore, awareness of when a library should be updated is important. With the emergence of large libraries hosting repositories such as Maven Central, we can leverage the dynamics of these ecosystems to understand and estimate when a library is due for an update. In this paper, based on the concepts of software aging, we empirically explore library usage as a means to describe its age. The study covers about 1,500 libraries belonging to the Maven software ecosystem. Results show that library usage changes are not random, with 81.7% of the popular libraries fitting typical polynomial models. Further analysis show that ecosystem factors such as emerging rivals has an effect on aging characteristics. Our preliminary findings demonstrate that awareness of library aging and its characteristics is a promising step towards aiding client systems in the maintenance of their libraries. © 2017 IEEE.
+INDEX KEYWORDS: Ecology; Libraries; Reengineering; Software design; Aging characteristics; Code components; Exploratory studies; Monitoring clients; Polynomial models; Software aging; Software ecosystems; Third parties; Ecosystems
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Hou F., Jansen S.
+AUTHOR FULL NAMES: Hou, Fang (57222187298); Jansen, Slinger (13610847800)
+57222187298; 13610847800
+A systematic literature review on trust in the software ecosystem
+(2023) Empirical Software Engineering, 28 (1), art. no. 8, Cited 4 times.
+DOI: 10.1007/s10664-022-10238-y
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85142378471&doi=10.1007%2fs10664-022-10238-y&partnerID=40&md5=aa1b0108734c4928b6915399c81259a7
+
+ABSTRACT: The worldwide software ecosystem is a trust-rich part of the world. Throughout the software life cycle, software engineers, end-users, and other stakeholders collaboratively place their trust in major hubs in the ecosystem, such as package managers, repository services, and software components. However, as our reliance on software grows, this trust is frequently violated by bad actors and crippling vulnerabilities in the software supply chain. This study aims to define software trust in the worldwide SECO, that is, to determine what signifies a trustworthy system, actor, or hub. We conduct a systematic literature review on the concept of trust in the software ecosystem. We acknowledge that trust is something between two actors in the software ecosystem, and we examine what role trust plays in the relationships between end-users and (1) software products, (2) package managers, (3) software producing organizations, and (4) software engineers. Two major findings emerged from the systematic literature review. To begin, we define trust in the software ecosystem by examining the definition and characteristics of trust. Second, we provide a list of trust factors that can be used to assemble an overview of software trust. Trust is critical in the communication between actors in the worldwide software ecosystem, particularly regarding software selection and evaluation. With this comprehensive overview of trust, software engineering researchers have a new foundation to understand and use trust to create a trustworthy software ecosystem. © 2022, The Author(s).
+AUTHOR KEYWORDS: Literature review; Software ecosystem; Software package evaluation; Software trust
+INDEX KEYWORDS: Computer software selection and evaluation; Ecosystems; Life cycle; Supply chains; End-users; Life cycle softwares; Literature reviews; Service components; Software ecosystems; Software life cycles; Software package evaluation; Software trust; Software-component; Systematic literature review; Managers
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+Ilo N., Grabner J., Artner T., Bernhart M., Grechenig T.
+AUTHOR FULL NAMES: Ilo, Nikola (56708842400); Grabner, Johann (54888816900); Artner, Thomas (37013004900); Bernhart, Mario (16229443600); Grechenig, Thomas (6507720565)
+56708842400; 54888816900; 37013004900; 16229443600; 6507720565
+Combining software interrelationship data across heterogeneous software repositories
+(2015) 2015 IEEE 31st International Conference on Software Maintenance and Evolution, ICSME 2015 - Proceedings, art. no. 7332516, pp. 571 - 575, Cited 2 times.
+DOI: 10.1109/ICSM.2015.7332516
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84961659711&doi=10.1109%2fICSM.2015.7332516&partnerID=40&md5=065da91c30af365d25d2bea273232095
+
+ABSTRACT: Software interrelationships have an impact on the quality and evolution of software projects and are therefore important to development and maintenance. Package management and build systems result in software ecosystems that usually are syntactically and semantically incompatible with each other, although the described software can overlap. There is currently no general way for querying software interrelationships across these different ecosystems. In this paper, we present our approach to combine and consequently query information about software interrelationships across different ecosystems. We propose an ontology for the semantic modeling of the relationships as linked data. Furthermore, we introduce a temporal storage and query model to handle inconsistencies between different data sources. By providing a scalable and extensible architecture to retrieve and process data from multiple repositories, we establish a foundation for ongoing research activities. We evaluated our approach by integrating the data of several ecosystems and demonstrated its usefulness by creating tools for vulnerability notification and license violation detection. © 2015 IEEE.
+INDEX KEYWORDS: Digital storage; Ecology; Ecosystems; Maintenance; Semantics; Heterogeneous software; License violation detections; Package managements; Query information; Research activities; Semantic Model; Software ecosystems; Software project; Computer software maintenance
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Alfadel M., Costa D.E., Shihab E.
+AUTHOR FULL NAMES: Alfadel, Mahmoud (57193697408); Costa, Diego Elias (57198365954); Shihab, Emad (23566819100)
+57193697408; 57198365954; 23566819100
+Empirical analysis of security vulnerabilities in Python packages
+(2023) Empirical Software Engineering, 28 (3), art. no. 59, Cited 2 times.
+DOI: 10.1007/s10664-022-10278-4
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85150987247&doi=10.1007%2fs10664-022-10278-4&partnerID=40&md5=98d230699cb2a18d3e3823bb65919c10
+
+ABSTRACT: Software ecosystems play an important role in modern software development, providing an open platform of reusable packages that speed up and facilitate development tasks. However, this level of code reusability supported by software ecosystems also makes the discovery of security vulnerabilities much more difficult, as software systems depend on an increasingly high number of packages. Recently, security vulnerabilities in the npm ecosystem, the ecosystem of Node.js packages, have been studied in the literature. As different software ecosystems embody different programming languages and particularities, we argue that it is also important to study other popular programming languages to build stronger empirical evidence about vulnerabilities in software ecosystems. In this paper, we present an empirical study of 1,396 vulnerability reports affecting 698 Python packages in the Python ecosystem (PyPi). In particular, we study the propagation and life span of security vulnerabilities, accounting for how long they take to be discovered and fixed. In addition, vulnerabilities in packages may affect software projects that depend on them (dependent projects), making them vulnerable too. We study a set of 2,224 GitHub Python projects, to better understand the prevalence of vulnerabilities in their dependencies and how fast it takes to update them. Our findings show that the discovered vulnerabilities in Python packages are increasing over time, and they take more than 3 years to be discovered. A large portion of these vulnerabilities (40.86%) are only fixed after being publicly announced, giving ample time for attackers exploitation. Moreover, we find that more than half of the dependent projects rely on at least one vulnerable package, taking a considerably long time (7 months) to update to a non-vulnerable version. We find similarities in some characteristics of vulnerabilities in PyPi and npm and divergences that can be attributed to specific PyPi policies. By leveraging our findings, we provide a series of implications that can help the security of software ecosystems by improving the process of discovering, fixing and managing package vulnerabilities. © 2023, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.
+AUTHOR KEYWORDS: Empirical studies; Packages; PyPi; Python; Vulnerabilities
+INDEX KEYWORDS: Computer software reusability; Ecosystems; High level languages; Reusability; Security of data; Software design; Development tasks; Empirical analysis; Empirical studies; Open platforms; Package; Pypi; Security vulnerabilities; Software ecosystems; Speed up; Vulnerability; Python
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Syamasudha V., Syed A.R., Gayatri E.
+AUTHOR FULL NAMES: Syamasudha, V. (57215662885); Syed, Abdul Raheem (57200945828); Gayatri, E. (57210963442)
+57215662885; 57200945828; 57210963442
+The solutions of SQL injection vulnerability in web application security
+(2019) International Journal of Engineering and Advanced Technology, 8 (6), pp. 3803 - 3808, Cited 0 times.
+DOI: 10.35940/ijeat.F9395.088619
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072053252&doi=10.35940%2fijeat.F9395.088619&partnerID=40&md5=ed9395589c5f3f8a6deea0816387aede
+
+ABSTRACT: Web Applications are commonly using all the services made available online. The rapid development of the Internet of Things (IOT), all the organizations provides their services and controlled through an online, like online transaction of money, business transaction of buying and selling the products, healthcare services, military and GPS Systems. Web application development and maintenance is very difficult based on the security. Attacks are many forms to stealing the secure, personal information and privacy data. There is one major open source community Open Web Application Security Project (OWASP) providing information, development and validation of web application projects to make application to be secure. This research work, discussing few of the solutions, detection and prevention methods of Injection risk out of the top 10 OWASP risks. Due to the injection risk, impact on business that �may lead to loss of information, unauthorized access of personal and secure information. © BEIESP.
+AUTHOR KEYWORDS: Information flow; Injection flaw; Secure compositions coding; Web application security
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Bronze Open Access
+SOURCE: Scopus
+
+Mitropoulos D., Gousios G., Papadopoulos P., Karakoidas V., Louridas P., Spinellis D.
+AUTHOR FULL NAMES: Mitropoulos, Dimitris (36886013800); Gousios, Georgios (14819567500); Papadopoulos, Panagiotis (55872802800); Karakoidas, Vassilios (15042567000); Louridas, Panagiotis (17343724600); Spinellis, Diomidis (35566637400)
+36886013800; 14819567500; 55872802800; 15042567000; 17343724600; 35566637400
+The Vulnerability Dataset of a Large Software Ecosystem
+(2016) Proceedings - 3rd International Workshop on Building Analysis Datasets and Gathering Experience Returns for Security, BADGERS 2014, art. no. 7446036, pp. 69 - 74, Cited 3 times.
+DOI: 10.1109/BADGERS.2014.8
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84968830358&doi=10.1109%2fBADGERS.2014.8&partnerID=40&md5=14535e1601603ff139003bd6de06610a
+
+ABSTRACT: Security bugs are critical programming errors that can lead to serious vulnerabilities in software. Examining their behaviour and characteristics within a software ecosystem can provide the research community with data regarding their evolution, persistence and others. We present a dataset that we produced by applying static analysis to the Maven Central Repository (approximately 265GB of data) in order to detect potential security bugs. For our analysis we used FindBugs, a tool that examines Java bytecode to detect numerous types of bugs. The dataset contains the metrics' results that FindBugs reports for every project version (a JAR) included in the ecosystem. For every version in our data repository, we also store specific metadata, such as the JAR's size, its dependencies and others. Our dataset can be used to produce interesting research results involving security bugs, as we show in specific examples. © 2014 IEEE.
+AUTHOR KEYWORDS: FindBugs; Maven Repository; Security Bugs; Software Ecosystem; Software Evolution; Software Security; Static Analysis
+INDEX KEYWORDS: Ecology; Ecosystems; Java programming language; Program debugging; FindBugs; Maven Repository; Security bugs; Software ecosystems; Software Evolution; Software security; Static analysis
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Zarkogianni K., Chatzidaki E., Polychronaki N., Kalafatis E., Nicolaides N.C., Voutetakis A., Chioti V., Kitani R.-A., Mitsis K., Perakis Κ., Athanasiou M., Antonopoulou D., Pervanidou P., Kanaka-Gantenbein C., Nikita K.
+AUTHOR FULL NAMES: Zarkogianni, Konstantia (23391479400); Chatzidaki, Evi (58162081400); Polychronaki, Nektaria (6505944468); Kalafatis, Eleftherios (57220103441); Nicolaides, Nicolas C. (55769747329); Voutetakis, Antonis (35449941400); Chioti, Vassiliki (36117620400); Kitani, Rosa-Anna (57700920200); Mitsis, Kostas (56347769900); Perakis, Κonstantinos (15844079000); Athanasiou, Maria (55774131500); Antonopoulou, Danae (58161889900); Pervanidou, Panagiota (35563966000); Kanaka-Gantenbein, Christina (55886598900); Nikita, Konstantina (7005448427)
+23391479400; 58162081400; 6505944468; 57220103441; 55769747329; 35449941400; 36117620400; 57700920200; 56347769900; 15844079000; 55774131500; 58161889900; 35563966000; 55886598900; 7005448427
+The ENDORSE Feasibility Study: Exploring the Use of M-Health, Artificial Intelligence and Serious Games for the Management of Childhood Obesity
+(2023) Nutrients, 15 (6), art. no. 1451, Cited 2 times.
+DOI: 10.3390/nu15061451
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85151108061&doi=10.3390%2fnu15061451&partnerID=40&md5=1d95f2c06266f3c1dcb5ce14e82bcbfc
+
+ABSTRACT: Childhood obesity constitutes a major risk factor for future adverse health conditions. Multicomponent parent–child interventions are considered effective in controlling weight. Τhe ENDORSE platform utilizes m-health technologies, Artificial Intelligence (AI), and serious games (SG) toward the creation of an innovative software ecosystem connecting healthcare professionals, children, and their parents in order to deliver coordinated services to combat childhood obesity. It consists of activity trackers, a mobile SG for children, and mobile apps for parents and healthcare professionals. The heterogeneous dataset gathered through the interaction of the end-users with the platform composes the unique user profile. Part of it feeds an AI-based model that enables personalized messages. A feasibility pilot trial was conducted involving 50 overweight and obese children (mean age 10.5 years, 52% girls, 58% pubertal, median baseline BMI z-score 2.85) in a 3-month intervention. Adherence was measured by means of frequency of usage based on the data records. Overall, a clinically and statistically significant BMI z-score reduction was achieved (mean BMI z-score reduction −0.21 ± 0.26, p-value < 0.001). A statistically significant correlation was revealed between the level of activity tracker usage and the improvement of BMI z-score (−0.355, p = 0.017), highlighting the potential of the ENDORSE platform. © 2023 by the authors.
+AUTHOR KEYWORDS: BMI; childhood obesity; family-based intervention; genetic algorithm; machine learning; multicomponent; self-monitoring; technology; wearables
+INDEX KEYWORDS: Artificial Intelligence; Body Mass Index; Child; Ecosystem; Feasibility Studies; Female; Humans; Male; Pediatric Obesity; Telemedicine; anthropometry; Article; artificial intelligence; body mass; child; childhood obesity; clinical article; clinical outcome; controlled study; diet therapy; feasibility study; female; health behavior; high intensity exercise; human; lifestyle modification; Likert scale; machine learning; male; medical assessment; nutritional assessment; physical activity; pilot study; psychologic assessment; questionnaire; screen time; self monitoring; self report; sleep time; telehealth; television viewing; artificial intelligence; childhood obesity; ecosystem; telemedicine
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access; Green Open Access
+SOURCE: Scopus
+
+Ponta S.E., Plate H., Sabetta A., Bezzi M., Dangremont C.
+AUTHOR FULL NAMES: Ponta, Serena Elisa (35111618100); Plate, Henrik (24476873000); Sabetta, Antonino (9039083700); Bezzi, Michele (56235096500); Dangremont, Cedric (57211031306)
+35111618100; 24476873000; 9039083700; 56235096500; 57211031306
+A manually-curated dataset of fixes to vulnerabilities of open-source software
+(2019) IEEE International Working Conference on Mining Software Repositories, 2019-May, art. no. 8816802, pp. 383 - 387, Cited 62 times.
+DOI: 10.1109/MSR.2019.00064
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85072305515&doi=10.1109%2fMSR.2019.00064&partnerID=40&md5=bbc41f6b4723e5907aa9498cf2b4664d
+
+ABSTRACT: Advancing our understanding of software vulnerabilities, automating their identification, the analysis of their impact, and ultimately their mitigation is necessary to enable the development of software that is more secure. While operating a vulnerability assessment tool, which we developed, and that is currently used by hundreds of development units at SAP, we manually collected and curated a dataset of vulnerabilities of open-source software, and the commits fixing them. The data were obtained both from the National Vulnerability Database (NVD), and from project-specific web resources, which we monitor on a continuous basis. From that data, we extracted a dataset that maps 624 publicly disclosed vulnerabilities affecting 205 distinct opensource Java projects, used in SAP products or internal tools, onto the 1282 commits that fix them. Out of 624 vulnerabilities, 29 do not have a CVE (Common Vulnerability and Exposure) identifier at all, and 46, which do have such identifier assigned by a numbering authority, are not available in the NVD yet. The dataset is released under an open-source license, together with supporting scripts that allow researchers to automatically retrieve the actual content of the commits from the corresponding repositories, and to augment the attributes available for each instance. Moreover, these scripts allow to complement the dataset with additional instances that are not security fixes (which is useful, for example, in machine learning applications). Our dataset has been successfully used to train classifiers that could automatically identify security-relevant commits in code repositories. The release of this dataset and the supporting code as open-source will allow future research to be based on data of industrial relevance; it also represents a concrete step towards making the maintenance of this dataset a shared effort involving open-source communities, academia, and the industry. © 2019 IEEE.
+AUTHOR KEYWORDS: Dataset; Nvd; Open source software; Vulnerabilities
+INDEX KEYWORDS: Classification (of information); Industrial research; Open systems; Dataset; Machine learning applications; National vulnerability database; Open source communities; Open source license; Software vulnerabilities; Vulnerabilities; Vulnerability assessment tool; Open source software
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+CEUR Workshop Proceedings
+(2017) CEUR Workshop Proceedings, 2047, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85041679272&partnerID=40&md5=14afe914134a2c0a8da7c55989a29228
+
+ABSTRACT: The proceedings contain 11 papers. The topics discussed include: emotional labor of software engineers; towards an interdisciplinary, socio-technical analysis of software ecosystem health; evolution of software product development in startup companies; quality-oriented move method refactoring; social debt analytics for improving the management of software evolution tasks; GIS SDKs dynamics echoed by social requirements transformations; and employing run-time static analysis to improve concolic execution.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Nierstrasz O.
+AUTHOR FULL NAMES: Nierstrasz, Oscar (6602127759)
+6602127759
+The death of object-oriented programming
+(2016) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 9633, pp. 3 - 10, Cited 3 times.
+DOI: 10.1007/978-3-662-49665-7_1
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84961763271&doi=10.1007%2f978-3-662-49665-7_1&partnerID=40&md5=04bad2883e127fea4e27f7ab6534bca9
+
+ABSTRACT: Modern software systems are increasingly long-lived. In order to gracefully evolve these systems as they address new requirements, developers need to navigate effectively between domain concepts and the code that addresses those domains. One of the original promises of object-orientation was that the same object-oriented models would be used throughout requirements analysis, design and implementation. Software systems today however are commonly constructed from a heterogeneous “language soup” of mainstream code and dedicated DSLs addressing a variety of application and technical domains. Has objectoriented programming outlived its purpose? In this essay we argue that we need to rethink the original goals of object-orientation and their relevance for modern software development. We propose as a driving maxim, “Programming is Modeling,” and explore what this implies for programming languages, tools and environments. In particular, we argue that: (1) source code should serve not only to specify an implementation of a software system, but should encode a queryable and manipulable model of the application and technical domains concerned; (2) IDEs should exploit these domain models to enable inexpensive browsing, querying and analysis by developers; and (3) barriers between the code base, the running application, and the software ecosystem at large need to be broken down, and their connections exploited and monitored to support developers in comprehension and evolution tasks. © Springer-Verlag Berlin Heidelberg 2016.
+INDEX KEYWORDS: Application programs; Codes (symbols); Computational linguistics; Computer software; Modeling languages; Software design; Software engineering; Design and implementations; Domain concepts; Object orientation; Object oriented model; Requirements analysis; Running applications; Software ecosystems; Software systems; Object oriented programming
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Linåker J., Papatheocharous E., Olsson T.
+AUTHOR FULL NAMES: Linåker, Johan (56426528100); Papatheocharous, Efi (24491068000); Olsson, Thomas (52365610500)
+56426528100; 24491068000; 52365610500
+How to characterize the health of an Open Source Software project? A snowball literature review of an emerging practice
+(2022) ACM International Conference Proceeding Series, art. no. 11, Cited 1 times.
+DOI: 10.1145/3555051.3555067
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139099545&doi=10.1145%2f3555051.3555067&partnerID=40&md5=340d3181a63dbda5a96e275233ff6229
+
+ABSTRACT: Motivation: Society's dependence on Open Source Software (OSS) and the communities that maintain the OSS is ever-growing. So are the potential risks of, e.g., vulnerabilities being introduced in projects not actively maintained. By assessing an OSS project's capability to stay viable and maintained over time without interruption or weakening, i.e., the OSS health, users can consider the risk implied by using the OSS as is, and if necessary, decide whether to help improve the health or choose another option. However, such assessment is complex as OSS health covers a wide range of sub-topics, and existing support is limited. Aim: We aim to create an overview of characteristics that affect the health of an OSS project and enable the assessment thereof. Method: We conduct a snowball literature review based on a start set of 9 papers, and identify 146 relevant papers over two iterations of forward and backward snowballing. Health characteristics are elicited and coded using structured and axial coding into a framework structure. Results: The final framework consists of 107 health characteristics divided among 15 themes. Characteristics address the socio-technical spectrum of the community of actors maintaining the OSS project, the software and other deliverables being maintained, and the orchestration facilitating the maintenance. Characteristics are further divided based on the level of abstraction they address, i.e., the OSS project-level specifically, or the project's overarching ecosystem of related OSS projects. Conclusion: The framework provides an overview of the wide span of health characteristics that may need to be considered when evaluating OSS health and can serve as a foundation both for research and practice.  © 2022 Owner/Author.
+AUTHOR KEYWORDS: Health; Open Source Software; Software Ecosystem; Software Quality.; Sustainability
+INDEX KEYWORDS: Computer software selection and evaluation; Ecosystems; Health risks; Open source software; Open systems; Risk assessment; Health characteristics; Literature reviews; Open source software projects; Open-source softwares; Potential risks; Project capability; Software ecosystems; Software Quality; Software quality.; Sub topics; Health
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Bronze Open Access; Green Open Access
+SOURCE: Scopus
+
+Veenhuis C.B.
+AUTHOR FULL NAMES: Veenhuis, Christian B. (8906504400)
+8906504400
+Community optimization
+(2013) Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics), 8160, pp. 1 - 45, Cited 0 times.
+DOI: 10.1007/978-3-642-45318-2_1
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84892765799&doi=10.1007%2f978-3-642-45318-2_1&partnerID=40&md5=19df731cae5596acf217af26f99d50a7
+
+ABSTRACT: In recent years a number of web-technology supported communities of humans have been developed. Such a web community is able to let emerge a collective intelligence with a higher performance in solving problems than the single members of the community. Thus, collective intelligence systems are explicitly designed to take advantage of these increased capabilities. A well-known collective intelligence system is Wikipedia, the web encyclopedia. It uses a collaborative web community of authors, which improves and completes the content of articles. The quality of a certain number of these articles comes close to some degree to that of a famous printed encyclopedia. Based on such successes of collective intelligence systems, the question arises, whether such a collaborative web community could also be capable of function optimization. This paper introduces an optimization algorithm called Community Optimization (CO), which optimizes a function by simulating a collaborative web community, which edits or improves an article-base, or, more general, a knowledge-base. The knowledge-base represents the problem to be solved and is realized as a real valued vector. The different vector components (decision variables) represent different topics contained in this knowledge-base. Thus, the dimension of the problem is the number of topics to be improved by the simulated community, whereby the dimension remains static. In order to realize this, CO implements a behavioral model of collaborative human communities derived from the human behavior that can be observed within certain web communities (e.g., Wikipedia or open source communities). The introduced CO method is applied to eight well-known benchmark problems for lower as well as higher dimensions. CO turns out to be the best choice in 9 cases and the Fully Informed Particle Swarm Optimization (FIPS) as well as Differential Evolution (DE) approaches in 4 cases. Concerning the high dimensional problems, CO significantly outperformed FIPS as well as DE in 6 of 8 cases and seems to be a suitable approach for high dimensional problems. © 2013 Springer-Verlag Berlin Heidelberg.
+AUTHOR KEYWORDS: Behavioral Model; Collaborative Community; Collective Intelligence; Community Optimization; Contribution Equation; Contribution Rule; Human Community; Human Society; Knowledge Base; Learning Equation; Learning Rule; Swarm Intelligence; Web Community
+INDEX KEYWORDS: Biomimetics; Knowledge based systems; Particle swarm optimization (PSO); Swarm intelligence; Behavioral model; Collaborative community; Collective intelligences; Contribution Equation; Contribution Rule; Human communities; Human society; Knowledge base; Learning Equation; Learning rules; Web community; Behavioral research
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Zineddine M., Alaoui C., Saidou N.
+AUTHOR FULL NAMES: Zineddine, Mhamed (55028120000); Alaoui, Chakib (6602633320); Saidou, Nourddin (6503865601)
+55028120000; 6602633320; 6503865601
+Commercial software companies and open source community reaction to disclosed vulnerabilities: Case of Windows Server 2008 and Linux patching
+(2017) 2017 International Conference on Wireless Technologies, Embedded and Intelligent Systems, WITS 2017, art. no. 7934677, Cited 0 times.
+DOI: 10.1109/WITS.2017.7934677
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85021624749&doi=10.1109%2fWITS.2017.7934677&partnerID=40&md5=2d527e01f0dfe8596ff42be2d4249ade
+
+ABSTRACT: Open source and closed software security has been debated for decades, vulnerabilities reported for both types of software has been under scrutiny for years. In this study, a descriptive and correlation study for two selected systems is conducted using SPSS 19. The results show that the severity score average of Linux kernel vulnerabilities is lower by %30 than the severity score average of vulnerabilities of windows server 2008, and the time required to patch published vulnerabilities is relatively faster for commercial than open source software. However, a positive correlation between Windows server 2008's variables reveal the irony that severity scores and patch delays are moving in the same direction. The contribution of this article is to shed light on the perception about the security divide between open source and closed software under study that is, although the commercial companies respond faster, however, not according to the severity of vulnerabilities disclosed. © 2017 IEEE.
+AUTHOR KEYWORDS: closed software; open source software; software selection; software update delay; vulnerability severity
+INDEX KEYWORDS: Computer operating systems; Computer software; Computer software selection and evaluation; Embedded systems; Intelligent systems; Linux; Open source software; Security of data; Software engineering; Windows operating system; Wireless telecommunication systems; Commercial software; Correlation studies; Open source communities; Positive correlations; Software security; Software selection; Software updates; vulnerability severity; Open systems
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Deng X., Ye W., Xie R., Zhang S.-K.
+AUTHOR FULL NAMES: Deng, Xiao (57203413536); Ye, Wei (57202350940); Xie, Rui (57208228261); Zhang, Shi-Kun (7409376421)
+57203413536; 57202350940; 57208228261; 7409376421
+Survey of Source Code Bug Detection Based on Deep Learning [基于深度学习的源代码缺陷检测研究综述]
+(2023) Ruan Jian Xue Bao/Journal of Software, 34 (2), pp. 625 - 654, Cited 1 times.
+DOI: 10.13328/j.cnki.jos.006696
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85161293722&doi=10.13328%2fj.cnki.jos.006696&partnerID=40&md5=958b708bc4fbe875f699bb83aea10c04
+
+ABSTRACT: Source code bug (vulnerability) detection is a process of judging whether there are unexpected behaviors in the program code. It is widely used in software engineering tasks such as software testing and software maintenance, and plays a vital role in software functional assurance and application security. Traditional vulnerability detection research is based on program analysis, which usually requires strong domain knowledge and complex calculation rules, and faces the problem of state explosion, resulting in limited detection performance, and there is room for greater improvement in the rate of false positives and false negatives. In recent years, the open source community’s vigorous development has accumulated massive amounts of data with open source code as the core. In this context, the feature learning capabilities of deep learning can automatically learn semantically rich code representations, thereby providing a new way for vulnerability detection. This study collected the latest high-level papers in this field, systematically summarized and explained the current methods from two aspects: vulnerability code dataset and deep learning vulnerability detection model. Finally, it summarizes the main challenges faced by the research in this field, and looks forward to the possible future research focus. © 2023 Chinese Academy of Sciences. All rights reserved.
+AUTHOR KEYWORDS: code representation; deep learning; vulnerability detection
+INDEX KEYWORDS: Application programs; Codes (symbols); Deep learning; Domain Knowledge; Open source software; Open systems; Application security; Bug detection; Code representation; Deep learning; Engineering tasks; Program analysis; Program code; Software testings; Source codes; Vulnerability detection; Software testing
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Kikas R., Gousios G., Dumas M., Pfahl D.
+AUTHOR FULL NAMES: Kikas, Riivo (56964359900); Gousios, Georgios (14819567500); Dumas, Marlon (7201354798); Pfahl, Dietmar (6603033193)
+56964359900; 14819567500; 7201354798; 6603033193
+Structure and evolution of package dependency networks
+(2017) IEEE International Working Conference on Mining Software Repositories, art. no. 7962360, pp. 102 - 112, Cited 97 times.
+DOI: 10.1109/MSR.2017.55
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85026515162&doi=10.1109%2fMSR.2017.55&partnerID=40&md5=7902af45d2726ec5612620ed01dda5cd
+
+ABSTRACT: Software developers often include available open-source software packages into their projects to minimize redundant effort. However, adding a package to a project can also introduce risks, which can propagate through multiple levels of dependencies. Currently, not much is known about the structure of open-source package ecosystems of popular programming languages and the extent to which transitive bug propagation is possible. This paper analyzes the dependency network structure and evolution of the JavaScript, Ruby, and Rust ecosystems. The reported results reveal significant differences across language ecosystems. The results indicate that the number of transitive dependencies for JavaScript has grown 60% over the last year, suggesting that developers should look more carefully into their dependencies to understand what exactly is included. The study also reveals that vulnerability to a removal of the most popular package is increasing, yet most other packages have a decreasing impact on vulnerability. The findings of this study can inform the development of dependency management tools. © 2017 IEEE.
+AUTHOR KEYWORDS: Dependency Management; Mining Software Repositories; Software Ecosystems; Software Evolution
+INDEX KEYWORDS: Ecology; Ecosystems; High level languages; Information dissemination; Open systems; Software engineering; Dependency networks; Management tool; Mining software repositories; Multiple levels; Open source package; Software developer; Software ecosystems; Software Evolution; Open source software
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Louw C., Paffenholz R., Verset C., Krause G.
+AUTHOR FULL NAMES: Louw, Candice (55899407900); Paffenholz, Rafael (57720778000); Verset, Carolin (57720677800); Krause, Gérard (7202049406)
+55899407900; 57720778000; 57720677800; 7202049406
+Global Good Open Source Software Development in Response to the COVID-19 Pandemic-Perspectives from SORMAS Implementation in Europe
+(2022) Studies in Health Technology and Informatics, 294, pp. 669 - 673, Cited 1 times.
+DOI: 10.3233/SHTI220553
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85131107598&doi=10.3233%2fSHTI220553&partnerID=40&md5=dbf4dc3798478a60c76f7a202919438c
+
+ABSTRACT: In recent years, software has evolved from being static, closed source, proprietary products to being dynamic, open source, ecosystems contributing to the global good. To this end, the open source software (OSS) solution and global good, Surveillance Outbreak Response Management and Analysis System (SORMAS), rapidly adjusted to the demands of the Coronavirus disease 2019 (COVID-19) outbreak by introducing a COVID-19 module. This allowed countries that were already making use of the software as part of their public health surveillance infrastructure to make use of the new module in order to respond to the pandemic. New countries in continental Europe, most notably Germany, Switzerland, Liechtenstein and France subsequently chose to adopt the software for public health surveillance purposes for the first time during 2020, requiring additional adaptations to meet local needs. As a result, in this paper, we aim to gain a better understanding of how rapidly SORMAS was adapted to meet global needs by analyzing the SORMAS COVID-19 module introduction timeline, as well as the overall development activity of the software during 2020 and 2021 in response to the pandemic. Favorable initial feature response times in combination with development scale-up possibilities speak to some of the potential advantages of implementing global good OSS tools such as SORMAS for public health surveillance, in response to an emergency. Overall, SORMAS serves as proof of concept for developing a global good OSS solution on an international scale.  © 2022 European Federation for Medical Informatics (EFMI) and IOS Press.
+AUTHOR KEYWORDS: COVID-19; Digital Transformation; Europe; Health Informatics; Open Source Software; Software Ecosystem
+INDEX KEYWORDS: COVID-19; Ecosystem; Europe; Humans; Pandemics; Software; Ecosystems; Medical informatics; Monitoring; Open source software; Open systems; Public health; Software design; Coronavirus disease 2019; Coronaviruses; Digital transformation; Europe; Health informatics; Management systems; Open-source softwares; Response analysis; Response management; Software ecosystems; ecosystem; epidemiology; Europe; human; pandemic; software; Coronavirus
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+Ribeiro M.I.C., DIas-Neto A.C.
+AUTHOR FULL NAMES: Ribeiro, Maria Ivanilse Calderon (57195227413); DIas-Neto, Arilo Cláudio (26430898300)
+57195227413; 26430898300
+Company Health in Mobile Software Ecosystem (MSECO): Research Perspectives and Challenges
+(2017) Proceedings - 2017 IEEE/ACM Joint 5th International Workshop on Software Engineering for Systems-of-Systems and 11th Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems, JSOS 2017, art. no. 7961699, pp. 74 - 75, Cited 3 times.
+DOI: 10.1109/JSOS.2017.3
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85026350698&doi=10.1109%2fJSOS.2017.3&partnerID=40&md5=ab0abb2f8649a5905d786bb2aef2fcf7
+
+ABSTRACT: This paper presents initial perspectives in the searchfor diagnosing the health of a Mobile Software Ecosystem(MSECO) company. The research intends to investigate a companys health through user reviews about mobile applications (Apps)and build and present indicators that can identify problems, failures and differences in the quality of the apps to guide thecompany in the search for "immunization" or "medication" sothat it does not become "sick" from the adoption of measures related to the use of indicators for the type of "disease". © 2017 IEEE.
+AUTHOR KEYWORDS: Diagnosis; Health; indicator; MSECO
+INDEX KEYWORDS: Diagnosis; Ecology; Ecosystems; Health; Indicators (instruments); Software engineering; Mobile applications; Mobile softwares; MSECO; User reviews; Software design
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Sawamoto J., Sugino E., Segawa N., Wada Y.
+AUTHOR FULL NAMES: Sawamoto, Jun (6603485056); Sugino, Eiji (24725462800); Segawa, Norihisa (24466674400); Wada, Yuji (57216205067)
+6603485056; 24725462800; 24466674400; 57216205067
+Program learning using static information and dynamic program execution slices
+(2010) 24th IEEE International Conference on Advanced Information Networking and Applications Workshops, WAINA 2010, art. no. 5480864, pp. 157 - 162, Cited 0 times.
+DOI: 10.1109/WAINA.2010.15
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-77954808634&doi=10.1109%2fWAINA.2010.15&partnerID=40&md5=40dafa9521919874803595a2223bebfa
+
+ABSTRACT: Nowadays, we can easily obtain a copy of practically any used program in our open source community for learning. However, the reality is that the level of such practically used programs is often complex and of such a large scale so that it is not as easy to understand them as one might expect. We believe that we do need some kind of environment to help the learner read and understand programs. Learning programs is necessary for other reasons such as program maintenance, reuse of programs. In this research, we built a model to use for program understanding. Using it, we examined possible ways of supporting program learning. Based on that, the objective of this paper is to present our efforts at developing a program learning environment, which helps narrow down the scope of a program to facilitate reading and understanding it while finding the differences of such dynamic information, as found in the program execution history, and also provide an environment in which the learner can use static information. We evaluate the efficiency of the proposed program learning environment through experiments. © 2010 IEEE.
+AUTHOR KEYWORDS: Component; Execution history; Program learning; Program maintenance; Program reuse; Program understanding
+INDEX KEYWORDS: Information use; Learning systems; Maintainability; Dynamic information; Dynamic programs; Learning environments; Learning programs; Maintenance programs; Open source communities; Program execution; Program maintenance; Program understanding; Static information; Computer software reusability
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Wermke D., Klemmer J.H., Wöhler N., Schmüser J., Ramulu H.S., Acar Y., Fahl S.
+AUTHOR FULL NAMES: Wermke, Dominik (57197866694); Klemmer, Jan H. (57843702900); Wöhler, Noah (57844993400); Schmüser, Juliane (57866649700); Ramulu, Harshini Sri (57866448500); Acar, Yasemin (55837116400); Fahl, Sascha (37097082800)
+57197866694; 57843702900; 57844993400; 57866649700; 57866448500; 55837116400; 37097082800
+"Always Contribute Back": A Qualitative Study on Security Challenges of the Open Source Supply Chain
+(2023) Proceedings - IEEE Symposium on Security and Privacy, 2023-May, pp. 1545 - 1560, Cited 1 times.
+DOI: 10.1109/SP46215.2023.10179378
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85166475408&doi=10.1109%2fSP46215.2023.10179378&partnerID=40&md5=5259022c4119558e78cd830f0ef2261e
+
+ABSTRACT: Open source components are ubiquitous in companies' setups, processes, and software. Utilizing these external components as building blocks enables companies to leverage the benefits of open source software, allowing them to focus their efforts on features and faster delivery instead of writing their own components. But by introducing these components into their software stack, companies inherit unique security challenges and attack surfaces: including code from potentially unvetted contributors and obligations to assess and mitigate the impact of vulnerabilities in external components.In 25 in-depth, semi-structured interviews with software developers, architects, and engineers from industry projects, we investigate their projects' processes, decisions, and considerations in the context of external open source code. We find that open source components play an important role in many of our participants' projects, that most projects have some form of company policy or at least best practice for including external code, and that many developers wish for more developer-hours, dedicated teams, or tools to better audit included components. Based on our findings, we discuss implications for company stakeholders and the open source software ecosystem. Overall, we appeal to companies to not treat the open source ecosystem as a free (software) supply chain and instead to contribute towards the health and security of the overall software ecosystem they benefit from and are part of.  © 2023 IEEE.
+AUTHOR KEYWORDS: developers; interviews; open-source; supply-chain; usable-security
+INDEX KEYWORDS: Ecosystems; Open source software; Open systems; Developer; External components; Interview; Open-source; Open-source components; Open-source softwares; Qualitative study; Security challenges; Software ecosystems; Usable security; Supply chains
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Zerouali A., Opdebeeck R., De Roover C.
+AUTHOR FULL NAMES: Zerouali, Ahmed (57194046807); Opdebeeck, Ruben (57220805033); De Roover, Coen (55891851900)
+57194046807; 57220805033; 55891851900
+Helm Charts for Kubernetes Applications: Evolution, Outdatedness and Security Risks
+(2023) Proceedings - 2023 IEEE/ACM 20th International Conference on Mining Software Repositories, MSR 2023, pp. 523 - 533, Cited 0 times.
+DOI: 10.1109/MSR59073.2023.00078
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85166333164&doi=10.1109%2fMSR59073.2023.00078&partnerID=40&md5=dd29d30b303b4219dbfc040a2b03645a
+
+ABSTRACT: Using Kubernetes for the deployment, management and scaling of containerized applications has become a common practice. To facilitate the installation and management of these applications, practitioners can use the Helm package manager to assemble their configuration files into charts. The latter are reusable packages of pre-configured Kubernetes resources that can be deployed as a unit. In this paper, we aim to support chart developers and users by carrying out a comprehensive study on publicly available charts. For 9,482 charts that are distributed via the Artifact Hub repository, we mine and collect the list of their metadata, versions, dependencies, maintainers and container images. Then, we carry out an empirical analysis to assess the state and evolution of charts, as well as the outdatedness and security risks of their images. We found that the ecosystem forming around Helm charts is growing fast. However, most of the charts are not official with no popularity and no license. We also observed that charts tend to release multiple versions, but around half of them are still in the initial development phase. When looking at the container images used in charts, we found that around half of them are outdated and 88.1% of them are exposed to vulnerabilities, jeopardizing 93.7% of the charts.  © 2023 IEEE.
+AUTHOR KEYWORDS: Evolution; Helm; Infrastructure-as-code; Kubernetes; Security; Software Ecosystem
+INDEX KEYWORDS: Application programs; Ecosystems; Risk assessment; Configuration files; Empirical analysis; Evolution; Helm; Infrastructure-as-code; Kubernetes; Scalings; Security; Security risks; Software ecosystems; Containers
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Richomme M.
+AUTHOR FULL NAMES: Richomme, Morgan (55038822000)
+55038822000
+The Open Source Community Choice: Automate or Die!
+(2021) Research Anthology on Recent Trends, Tools, and Implications of Computer Programming, 2, pp. 548 - 570, Cited 0 times.
+DOI: 10.4018/978-1-6684-3694-3.ch028
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128057409&doi=10.4018%2f978-1-6684-3694-3.ch028&partnerID=40&md5=9fad6b34cff2e86a67c81749e167e7c9
+
+ABSTRACT: Open source communities have had and continue to have a major influence on the evolution of the Internet. By their nature, such communities involve people with diverse coding cultures and skills. Automation has consequently been of major interest to open source software developers for a long time, and many open source tools have been developed to address code variability and sustainability challenges. This chapter discusses why open source communities must automate and the challenges they will face. Solutions and current examples of automation in open source projects are provided as a guide to what is achievable. OpenShift, OpenStack, and OPNFV communities are used to illustrate different approaches and best practices. Two recently initiated automation initiatives are detailed: “Cross Community Continuous Integration” (XCI) and “Cross Testing” (Xtesting). Finally, some recommendations are provided for new projects as a guide to ease adoption of appropriate tools and methods. © 2022 by IGI Global. All rights reserved.
+DOCUMENT TYPE: Book chapter
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Wang Y., Sun P., Pei L., Yu Y., Xu C., Cheung S.-C., Yu H., Zhu Z.
+AUTHOR FULL NAMES: Wang, Ying (57022068000); Sun, Peng (58108954100); Pei, Lin (58109713800); Yu, Yue (55566298800); Xu, Chang (56870592600); Cheung, Shing-Chi (7202472792); Yu, Hai (58109556500); Zhu, Zhiliang (57443597100)
+57022068000; 58108954100; 58109713800; 55566298800; 56870592600; 7202472792; 58109556500; 57443597100
+Plumber: Boosting the Propagation of Vulnerability Fixes in the npm Ecosystem
+(2023) IEEE Transactions on Software Engineering, 49 (5), pp. 3155 - 3181, Cited 0 times.
+DOI: 10.1109/TSE.2023.3243262
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85148427704&doi=10.1109%2fTSE.2023.3243262&partnerID=40&md5=8e239da3af99c2185ec390971dd644e0
+
+ABSTRACT: Vulnerabilities are known reported security threats that affect a large amount of packages in the npm ecosystem. To mitigate these security threats, the open-source community strongly suggests vulnerable packages to timely publish vulnerability fixes and recommends affected packages to update their dependencies. However, there are still serious lags in the propagation of vulnerability fixes in the ecosystem. In our preliminary study on the latest versions of 356,283 active npm packages, we found that 20.0% of them can still introduce vulnerabilities via direct or transitive dependencies although the involved vulnerable packages have already published fix versions for over a year. Prior study by (Chinthanet et al. 2021) lays the groundwork for research on how to mitigate propagation lags of vulnerability fixes in an ecosystem. They conducted an empirical investigation to identify lags that might occur between the vulnerable package release and its fixing release. They found that factors such as the branch upon which a fix landed and the severity of the vulnerability had a small effect on its propagation trajectory throughout the ecosystem. To ensure quick adoption and propagation of a release that contains the fix, they gave several actionable advice to developers and researchers. However, it is still an open question how to design an effective technique to accelerate the propagation of vulnerability fixes. Motivated by this problem, in this paper, we conducted an empirical study to learn the scale of packages that block the propagation of vulnerability fixes in the ecosystem and investigate their evolution characteristics. Furthermore, we distilled the remediation strategies that have better effects on mitigating the fix propagation lags. Leveraging our empirical findings, we propose an ecosystem-level technique, Plumber, for deriving feasible remediation strategies to boost the propagation of vulnerability fixes. To precisely diagnose the causes of fix propagation blocking, Plumber models the vulnerability metadata, and npm dependency metadata and continuously monitors their evolution. By analyzing a full-picture of the ecosystem-level dependency graph and the corresponding fix propagation statuses, it derives remediation schemes for pivotal packages. In the schemes, Plumber provides customized remediation suggestions with vulnerability impact analysis to arouse package developers' awareness. We applied Plumber to generating 268 remediation reports for the identified pivotal packages, to evaluate its remediation effectiveness based on developers' feedback. Encouragingly, 47.4% our remediation reports received positive feedback from many well-known npm projects, such as Tensorflow/tfjs, Ethers.js, and GoogleChrome/workbox. Our reports have boosted the propagation of vulnerability fixes into 16,403 root packages through 92,469 dependency paths. On average, each remediated package version is receiving 72,678 downloads per week by the time of this work.  © 1976-2012 IEEE.
+AUTHOR KEYWORDS: Empirical study; npm ecosystem; vulnerable dependencies
+INDEX KEYWORDS: Application programs; Costs; Ecosystems; Open source software; Open systems; Security systems; Trajectories; <italic xmlns:ali="; > ecosystem; Empirical studies; Optimisations; Security; Software; Vulnerable dependency; Xmlns:mml="; Xmlns:xlink="; Xmlns:xsi="; Metadata
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Scarsbrook J.D., Utting M., Ko R.K.L.
+AUTHOR FULL NAMES: Scarsbrook, Joshua D. (57221715645); Utting, Mark (6603922152); Ko, Ryan K. L. (46661650200)
+57221715645; 6603922152; 46661650200
+TypeScript's Evolution: An Analysis of Feature Adoption Over Time
+(2023) Proceedings - 2023 IEEE/ACM 20th International Conference on Mining Software Repositories, MSR 2023, pp. 109 - 114, Cited 0 times.
+DOI: 10.1109/MSR59073.2023.00027
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85166351481&doi=10.1109%2fMSR59073.2023.00027&partnerID=40&md5=185a75b8c119d69225396e973aad78a8
+
+ABSTRACT: TypeScript is a quickly evolving superset of JavaScript with active development of new features. Our paper seeks to understand how quickly these features are adopted by the developer community. Existing work in JavaScript shows the adoption of dynamic language features can be a major hindrance to static analysis. As TypeScript evolves the addition of features makes the underlying standard more and more difficult to keep up with. In our work we present an analysis of 454 open source TypeScript repositories and study the adoption of 13 language features over the past three years. We show that while new versions of the TypeScript compiler are aggressively adopted by the community, the same cannot be said for language features. While some experience strong growth others are rarely adopted by projects. Our work serves as a starting point for future study of the adoption of features in TypeScript. We also release our analysis and data gathering software as open source in the hope it helps the programming languages community.  © 2023 IEEE.
+AUTHOR KEYWORDS: Data Mining; JavaScript; TypeScript
+INDEX KEYWORDS: Data mining; High level languages; Open source software; Open systems; Data gathering; Dynamic languages; Javascript; Language features; Open-source; Strong growth; Supersets; Typescript; Static analysis
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Huang C., Sun M., Duan R., Wu S., Chen B.
+AUTHOR FULL NAMES: Huang, Cheng (55511401300); Sun, Mingxu (57559279500); Duan, Renyu (57559279600); Wu, Susheng (57558747600); Chen, Bin (57302484900)
+55511401300; 57559279500; 57559279600; 57558747600; 57302484900
+Vulnerability identification technology research based on project version difference
+(2022) Chinese Journal of Network and Information Security, 8 (1), pp. 52 - 62, Cited 0 times.
+DOI: 10.11959/j.issn.2096-109x.2021094
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85128194724&doi=10.11959%2fj.issn.2096-109x.2021094&partnerID=40&md5=3daeb7baebb17a27fbd28454aa6b4d4c
+
+ABSTRACT: The open source code hosting platform has brought power and opportunities to software development, but there are also many security risks. The open source code has poor quality, the dependency libraries of projects are complex and vulnerability collection platforms are inadequate in collecting vulnerabilities. All these problems affect the security of open source projects and complex software with open source complements and most security patches can't be discovered and applied in time. Thus, the hackers could be easily found such vulnerable software. To discover the vulnerability in the open source community fully and timely, a vulnerability identification system based on project version difference was proposed. The update contents of projects in the open source community were collected automatically, then features were defined as security behaviors and code differences from the code and log in patches, 40 features including comment information feature group, page statistics feature group, code statistics feature group and vulnerability type feature group were proposed to build feature set. And random forest model was built to learn classifiers for vulnerability identification. The results show that VpatchFinder achieves a precision rate of 0.844, an accuracy rate of 0.855 and a recall rate of 0.851. Besides, 68.07% of community vulnerabilities can be early discovered by VpatchFinder in real open source CVE vulnerabilities. This research result can improve the current issue in software security architecture design and development. © 2022, Beijing Xintong Media Co., Ltd.. All rights reserved.
+AUTHOR KEYWORDS: machine learning; open source platform; security patch; vulnerability detection
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Oriol M., Franco-Bedoya O., Franch X., Marco J.
+AUTHOR FULL NAMES: Oriol, Marc (53880191200); Franco-Bedoya, Oscar (56342148300); Franch, Xavier (6603081752); Marco, Jordi (8332219900)
+53880191200; 56342148300; 6603081752; 8332219900
+Assessing open source communities' health using Service Oriented Computing concepts
+(2014) Proceedings - International Conference on Research Challenges in Information Science, art. no. 6861064, Cited 5 times.
+DOI: 10.1109/RCIS.2014.6861064
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84906762124&doi=10.1109%2fRCIS.2014.6861064&partnerID=40&md5=c2da76505788be0303430df16fe0c10a
+
+ABSTRACT: The quality of Open Source Software products is directly related to its community's health. To date, health analysis is made accessing available data repositories or using software management tools that are often too static or ad hoc. To address this issue, we propose to adopt principles and methods from the Service Oriented Computing field. Particularly, we propose to adapt the concepts of quality service and service level agreement, and propose to reuse the existing body of knowledge and techniques from SOC monitoring. To demonstrate the feasibility of the approach, we use a service monitoring framework called SALMonOSS as a proof of concept to realize the implementation of the proposal. © 2014 IEEE.
+AUTHOR KEYWORDS: Community Health; Monitoring; Open Source Software; OSS; SOC
+INDEX KEYWORDS: Health; Information science; Monitoring; Open source software; Software engineering; Community health; Open source communities; OSS; Service Level Agreements; Service monitoring; Service oriented computing; SOC; Software management tools; Open systems
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Alfadel M., Costa D.E., Shihab E., Adams B.
+AUTHOR FULL NAMES: Alfadel, Mahmoud (57193697408); Costa, Diego Elias (57198365954); Shihab, Emad (23566819100); Adams, Bram (15134994200)
+57193697408; 57198365954; 23566819100; 15134994200
+On the Discoverability of npm Vulnerabilities in Node.js Projects
+(2023) ACM Transactions on Software Engineering and Methodology, 32 (4), art. no. 91, Cited 0 times.
+DOI: 10.1145/3571848
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164240458&doi=10.1145%2f3571848&partnerID=40&md5=45398f37670e68546c168133b48c40f6
+
+ABSTRACT: The reliance on vulnerable dependencies is a major threat to software systems. Dependency vulnerabilities are common and remain undisclosed for years. However, once the vulnerability is discovered and publicly known to the community, the risk of exploitation reaches its peak, and developers have to work fast to remediate the problem. While there has been a lot of research to characterize vulnerabilities in software ecosystems, none have explored the problem taking the discoverability into account. Therefore, we perform a large-scale empirical study examining 6,546 Node.js applications. We define three discoverability levels based on vulnerabilities lifecycle (undisclosed, reported, and public). We find that although the majority of the affected applications (99.42%) depend on undisclosed vulnerable packages, 206 (4.63%) applications were exposed to dependencies with public vulnerabilities. The major culprit for the applications being affected by public vulnerabilities is the lack of dependency updates; in 90.8% of the cases, a fix is available but not patched by application maintainers. Moreover, we find that applications remain affected by public vulnerabilities for a long time (103 days). Finally, we devise DepReveal, a tool that supports our discoverability analysis approach, to help developers better understand vulnerabilities in their application dependencies and plan their project maintenance. © 2023 Association for Computing Machinery.
+AUTHOR KEYWORDS: dependency vulnerabilities; Open source software; software ecosystems; software packages
+INDEX KEYWORDS: Ecosystems; Life cycle; Open systems; Analysis approach; Dependency vulnerability; Empirical studies; Exposed to; Large-scales; Open-source softwares; Project maintenance; Software ecosystems; Software-systems; Open source software
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Lesch H.M.
+AUTHOR FULL NAMES: Lesch, Harold M. (8335376800)
+8335376800
+Translation practice in the social media: An improved translation text for a virtual community? [Vertaalpraktyke in die sosiale media: ? verbeterde vertaalteks vir ? virtuele gemeenskap?]
+(2014) Tydskrif vir Geesteswetenskappe, 54 (1), pp. 129 - 143, Cited 3 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84903180576&partnerID=40&md5=3ab8b44ee73c1e6d077d6fd6a88b6ac7
+
+ABSTRACT: A method increasingly used to provide translation in the computer era is crowdsourcing. This practice is widely exercised in the open-source community and has become quite sophisticated. The "crowd" comes in various forms: customers, brand advocates, domain experts, passionate users and the "unwashed masses". All of these take the form of multilingual communities whose translation work may be integrated with existing translation workflows. However, there are still many misconceptions and myths about the outcomes of crowdsourcing when applied to translation. Three major phenomena in harnessing the power of the crowd for translation purposes have been identified by Rebecca Ray and Nataly Kelly (2011). The first is community translation (or social translation) which is usually performed on voluntary basis by members of a group or by people with common interests. These groups are often cause-focused; interested in obtaining access to information in their own language; or simply people devoted to language. The second is collaborative technology and processes which allow a community to develop around a project and to work on the same content. Community members can verify and rectify one another's work as they go along. The term "collaborative translation" is also used to describe the work of professional translation teams working as a swarm -where multiple translators interact with the same content simultaneously, using advanced translation memory tools. The third, crowdsourcing, opens up a translation project to teams comprising of any mix of volunteer translators, employees, contractors or language service providers. It leverages the power of the swarm to accomplish much more than a single translator or language service provider can do alone. These three methods have supported one another to such an extent that the boundaries between them have faded. However, this paper argues that crowdsourced translation for a virtual community expands on community translation as originally developed for educationally deprived communities, with specifically the linguistically deprived as target readers of translated texts. Multicultural societies, such as those in South Africa, where heterogeneous target audiences require translation, use community translation as a vehicle for effective communication (Lesch 2004; 1999). Otherwise a translation will only be a symbolic gesture, empty of value, and thus not communicating the message intended. This article argues that a functional approach ensures that translations are meaningful acts, and that this approach may serve as a translation paradigm for multilingual countries and global virtual institutions. Different readers and listeners must be addressed in writing (and in speaking) at a level that they can understand. In the multicultural context found in many countries, a plain language approach to translation for communication purposes entails that those who produce texts must consider plain language for effective communication. At the same time it should be borne in mind that there are various degrees of plainness. The communicator and translator can achieve a relative plainness, for instance, a plainer language that is more adequate in the eyes and ears of the audience than the legalese Afrikaans version. In terms of communication it represents an improvement of the original source text language.The concept of plain language is dynamic and varies according to the target audience. Translators can adopt one of two approaches.They either think of a text in terms of plain language before translating, or they transfer a text into plain language during the translation process. The latter approach deals with rephrasing and adaptation as part of the construction of target texts. I am of the opinion that this is the better way to ensure effective intercultural communication across power gaps in a heterogeneous country, and that this also applies to the generic reader on the internet. It goes without saying that this translation strategy is useful for effective understanding of the target text when communicating a message to widely heterogeneous audiences, including some with limited educational backgrounds, and for effective communication across a wide cultural spectrum and power gaps. Consequently, this article draws on norms that have been developed for the community translation practice prior to the evolution of a virtual internet community, and were designed for target readers with a limited educational background. The article raises the question of, and initiates debate on whether the proposed norms are also relevant for translation via crowdsourcing. The underlying principle for these norms is using accessible language in crowdsourced and community translation on the internet.
+AUTHOR KEYWORDS: Community translation; Crowdsourced translation; Norms; Virtual community
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Proceedings of the ECSA 2014 Workshops and Tool Demos Track - European Conference on Software Architecture, ECSAW 2014
+(2014) ACM International Conference Proceeding Series, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-84907386094&partnerID=40&md5=1ee3054c7f81c5f68dc8a14da82187ed
+
+ABSTRACT: The proceedings contain 33 papers. The topics discussed include: adaptive risk management with ontology linked evidential statistics and SDN; a tool for security metrics modeling and visualization; the merits of a meritocracy in open source software ecosystems; the reality of an associate model - comparing partner activity in the eclipse ecosystem; scientific research software ecosystems; governance mechanisms for healthcare apps; towards faster method search through static ecosystem analysis; a quantitative analysis of developer information needs in software ecosystems; supporting architects in mastering the complexity of open software ecosystems; flexibility in ecosystem architectures; domain specific language for deployment of parallel applications on parallel computing platforms; hierarchical combination of internal and external domain-specific languages for scientific computing; and supporting software evolution by integrating DSL-based architectural abstraction and understandability related metrics.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Foundjem A.
+AUTHOR FULL NAMES: Foundjem, Armstrong (57210920185)
+57210920185
+Cross-distribution Feedback in Software Ecosystems
+(2020) Proceedings - 2020 IEEE/ACM 42nd International Conference on Software Engineering Workshops, ICSEW 2020, pp. 723 - 724, Cited 1 times.
+DOI: 10.1145/3387940.3392188
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85093096839&doi=10.1145%2f3387940.3392188&partnerID=40&md5=619475546037e7e1f910015b2c39c715
+
+ABSTRACT: Despite the proliferation of software ecosystems (SECOs), growing a sustainable and healthy SECO remains a significant challenge. One approach to mitigate this challenge is the utilization of a mechanism that collects feedback from distributors (distros) and end-users of the SECO releases. This presentation aims at investigating the effectiveness of the feedback mechanism implemented by OpenStack to address the needs of end-users and distros. I mined the OpenStack repositories and mapped 20 distros' bug-related activities. Results suggest that OpenStack releases are actively maintained for 18 months before reaching end-of-life (EOL), which makes coordination with distros difficult because distros usually provide services to their end-users for a period between 36 - 60 months before reaching EOL. Also, bugs are fixed faster by the distros (7 - 76 days) than the OpenStack community (average of 4 months). However, only 22% of the bugs addressed by OpenStack distros are pushed back upstream.  © 2020 Owner/Author.
+AUTHOR KEYWORDS: Cross-bugs; Dependencies; Downstream/Upstream development; Software Ecosystem
+INDEX KEYWORDS: Ecosystems; Platform as a Service (PaaS); Technical presentations; End of lives; End users; Feedback mechanisms; Software ecosystems; Software engineering
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Buhnova B., Halasz D., Iqbal D., Bangui H.
+AUTHOR FULL NAMES: Buhnova, Barbora (35781665200); Halasz, David (57802332900); Iqbal, Danish (57212036413); Bangui, Hind (56607423200)
+35781665200; 57802332900; 57212036413; 56607423200
+Survey on Trust in Software Engineering for Autonomous Dynamic Ecosystems
+(2023) Proceedings of the ACM Symposium on Applied Computing, pp. 1490 - 1497, Cited 0 times.
+DOI: 10.1145/3555776.3577702
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85162908950&doi=10.1145%2f3555776.3577702&partnerID=40&md5=b5ec94db63cea652d9141bc4947c8ff1
+
+ABSTRACT: Software systems across various application domains are undergoing a major shift, from static systems of systems to dynamic ecosystems characterized by largely autonomous software agents, engaging in mutual coalitions and partnerships to complete complex collaborative tasks. One of the key challenges facing software engineering along with this shift, is our preparedness to leverage the concept of mutual trust building among the dynamic system components, to support safe collaborations with (possibly malicious or misbehaving) components outside the boundaries of our control. To support safe evolution towards dynamic software ecosystems, this paper examines the current progress in the research on trust in software engineering across various application domains. To this end, it presents a survey of existing work in this area, and suggests the directions in which further research is needed. These directions include the research of social metrics supporting trust assessment, fine-grained quantification of trust-assessment results, and opening the discussion on governance mechanisms responsible for trust-score management and propagation across the integrated software ecosystems.  © 2023 ACM.
+AUTHOR KEYWORDS: autonomous systems; dynamic software ecosystems; software engineering; survey; trust
+INDEX KEYWORDS: Application programs; Autonomous agents; Engineering research; Applications domains; Autonomous dynamics; Autonomous system; Dynamic software ecosystem; Dynamic softwares; Software ecosystems; Software-systems; Static systems; Trust; Trust assessments; Ecosystems
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Bronze Open Access
+SOURCE: Scopus
+
+Johnsen S.O., Stålhane T.
+AUTHOR FULL NAMES: Johnsen, S.O. (11241479000); Stålhane, T. (8693760700)
+11241479000; 8693760700
+Safety, security and resilience of critical software ecosystems
+(2017) Safety and Reliability - Theory and Applications - Proceedings of the 27th European Safety and Reliability Conference, ESREL 2017, pp. 3211 - 3220, Cited 2 times.
+DOI: 10.1201/9781315210469-406
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061367823&doi=10.1201%2f9781315210469-406&partnerID=40&md5=466f6e12f6dce70564f941b2c9f6b8e7
+
+ABSTRACT: A software ecosystem is defined as the dynamic evolution of systems on top of a common technological platform offering a set of software solutions and services. Software ecosystems has gained increased attention due to mobile platforms and the need to improve development of solutions utilizing a network of collaborative actors. Software ecosystems are increasingly being used to support critical tasks and operations, such as smart cities and intelligent transport systems. There is no systematic overview of how safety, security and resilience are addressed in software ecosystems. We have performed a systematic literature review of research related to safety, security and resilience of critical software ecosystems, in the period 2007 to 2016. Peer-reviewed articles were identified in areas of critical infrastructure, but fewer articles than anticipated were found. The perspective of software ecosystems has helped to identify and specify patterns of safety, security and resilience on a relevant abstraction level. Significant vulnerabilities and poor awareness of safety, security and resilience has been identified in critical ecosystems. Key actors that should increase their attention are vendors, regulators, insurance companies and the research community. There is a need to improve private-public partnership and to improve the learning loops between computer emergency teams, security information providers, regulators and vendors. There is a need to focus more on safety, security and resilience and to establish regulations of responsibilities on the vendors for liabilities. © 2017 Taylor & Francis Group, London.
+INDEX KEYWORDS: Insurance; Intelligent systems; Reliability theory; Traffic control; Information provider; Insurance companies; Intelligent transport systems; Private public partnerships; Research communities; Software ecosystems; Systematic literature review; Technological platform; Ecosystems
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Zimmermann T., Falleri J.-R.
+AUTHOR FULL NAMES: Zimmermann, Théo (57194169147); Falleri, Jean-Rémy (15044255700)
+57194169147; 15044255700
+A grounded theory of community package maintenance organizations
+(2023) Empirical Software Engineering, 28 (4), art. no. 101, Cited 0 times.
+DOI: 10.1007/s10664-023-10337-4
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85164162076&doi=10.1007%2fs10664-023-10337-4&partnerID=40&md5=751703b2fd18173c219f28f67902147e
+
+ABSTRACT: In many programming language ecosystems, developers rely more and more on external open source dependencies, made available through package managers. Key ecosystem packages that go unmaintained create a health risk for the projects that depend on them and for the ecosystem as a whole. Therefore, community initiatives can emerge to alleviate the problem by adopting packages in need of maintenance. The goal of our study is to explore such community initiatives, that we will designate from now on as Community Package Maintenance Organizations (CPMOs) and to build a theory of how and why they emerge, how they function and their impact on the surrounding ecosystems. To achieve this, we use a qualitative methodology called Grounded Theory. We have applied this methodology in two steps. First, on “extant” documents (documentation, discussions on public forums) originating from several CPMOs. From this data, we have built a theory of CPMOs, which we have then refined through interviews and reliability checks with CPMO participants. Our theory can inform developers willing to launch a CPMO in their own ecosystem and help current CPMO participants to better understand the state of the practice and what they could do better. It is a basis on which future research can be done on how to help open source ecosystems improve the maintenance status of their most important packages. © 2023, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.
+AUTHOR KEYWORDS: Collaborative maintenance; Grounded theory; Open source communities; Open source maintainers; Open source software; Package ecosystem; Software libraries; Software maintenance
+INDEX KEYWORDS: Computer software maintenance; Ecosystems; Health risks; Open systems; Reliability theory; Collaborative maintenance; Grounded theory; Maintenance organizations; Open source communities; Open source maintainer; Open-source; Open-source softwares; Package ecosystem; Software libraries; Source dependency; Open source software
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Tamburri D.A., Palomba F., Serebrenik A., Zaidman A.
+AUTHOR FULL NAMES: Tamburri, Damian A. (35488974800); Palomba, Fabio (55321369000); Serebrenik, Alexander (8987563200); Zaidman, Andy (18435685400)
+35488974800; 55321369000; 8987563200; 18435685400
+Discovering community patterns in open-source: a systematic approach and its evaluation
+(2019) Empirical Software Engineering, 24 (3), pp. 1369 - 1417, Cited 36 times.
+DOI: 10.1007/s10664-018-9659-9
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85056659219&doi=10.1007%2fs10664-018-9659-9&partnerID=40&md5=2095cc1f0b0c2f6e828b582d7ae9d743
+
+ABSTRACT: “There can be no vulnerability without risk; there can be no community without vulnerability; there can be no peace, and ultimately no life, without community.” - [M. Scott Peck] The open-source phenomenon has reached the point in which it is virtually impossible to find large applications that do not rely on it. Such grand adoption may turn into a risk if the community regulatory aspects behind open-source work (e.g., contribution guidelines or release schemas) are left implicit and their effect untracked. We advocate the explicit study and automated support of such aspects and propose Yoshi (Y ielding O pen-S ource H ealth I nformation), a tool able to map open-source communities onto community patterns, sets of known organisational and social structure types and characteristics with measurable core attributes. This mapping is beneficial since it allows, for example, (a) further investigation of community health measuring established characteristics from organisations research, (b) reuse of pattern-specific best-practices from the same literature, and (c) diagnosis of organisational anti-patterns specific to open-source, if any. We evaluate the tool in a quantitative empirical study involving 25 open-source communities from GitHub, finding that the tool offers a valuable basis to monitor key community traits behind open-source development and may form an effective combination with web-portals such as OpenHub or Bitergia. We made the proposed tool open source and publicly available. © 2018, The Author(s).
+AUTHOR KEYWORDS: Community patterns; Community types; Empirical software engineering; Open source systems and community analysis
+INDEX KEYWORDS: C (programming language); Open systems; Portals; Community analysis; Community patterns; Community types; Empirical Software Engineering; Open source communities; Open source development; Quantitative empirical studies; Regulatory aspects; Open source software
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+Arantes P., Soupinski F., Fontao A.
+AUTHOR FULL NAMES: Arantes, Pedro (57913882600); Soupinski, Felipe (57912810900); Fontao, Awdren (36598185300)
+57913882600; 57912810900; 36598185300
+Social Networks during Software Ecosystems' Death
+(2023) Proceedings - 2023 IEEE/ACM 11th International Workshop on Software Engineering for Systems-of-Systems and Software Ecosystems, SESoS 2023, pp. 9 - 12, Cited 0 times.
+DOI: 10.1109/SESoS59159.2023.00007
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85169113845&doi=10.1109%2fSESoS59159.2023.00007&partnerID=40&md5=8b1fb5d70354bb6e995de55cfb0dff25
+
+ABSTRACT: Software Ecosystems (SECO) depend on platforms that serve as environments for developers' interaction. The SECO may die when the organization that owns the platform does not support the synergy between organizational goals and developers' expectations. The death results in the suspension of vital activities, such as code development and maintenance, impacting developers who lose work, learning, and experience gained. On the other hand, the responsible corporation loses resources invested in SECO. These signs indicate a SECO death is an important event for the community and should be analyzed. This paper reports a GitHub (GH) study focusing on three web SECOs: AngularJS, PhantomJS, and MomentJS. We analyze metrics based on developer community engagement and collaboration to understand what happens in these SECOs before, during, and after the platform's death. From the search questions, we found some directions: Users' recruitment and permanence: Without management and engagement, communities get out of SECOS a few years after your entry, so methods to control and organize the community are needed. Community relationships: The community needs engagement to strengthen and maintain your relationships. Some types of programs are useful methods to engage and encourage users to collaborate between them. © 2023 IEEE.
+AUTHOR KEYWORDS: death ecosystem; death platform; software ecosystem
+INDEX KEYWORDS: Social networking (online); Social sciences computing; Code development; Community engagement; Community IS; Death ecosystem; Death platform; Lost work; Organizational goals; Software ecosystems; Ecosystems
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Massanori D., Cafeo B.B.P., Wiese I., Fontão A.
+AUTHOR FULL NAMES: Massanori, Daniel (57221530668); Cafeo, Bruno B. P. (55395460200); Wiese, Igor (6603482090); Fontão, Awdren (36598185300)
+57221530668; 55395460200; 6603482090; 36598185300
+Death of a Software Ecosystem: A Developer Relations (DevRel) perspective
+(2020) ACM International Conference Proceeding Series, pp. 399 - 404, Cited 4 times.
+DOI: 10.1145/3422392.3422445
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85099367780&doi=10.1145%2f3422392.3422445&partnerID=40&md5=ab034b3d9d08435704841e40c5dc4388
+
+ABSTRACT: The Developer Relations (DevRel) is a strategy to attract, engage and mature developers in contributing to a platform. It supports the establishment of a Software Ecosystem (SECO). However, even with investments in the DevRel, some organizations face the death of their ecosystems, for example: Symbian (2012), Firefox OS (2016), Windows Phone (2017). It can also be compared based on Ecology to a disruption of the "food chain"that can turn a dynamic ecosystem in a static or dead ecosystem. For example, Microsoft announced in 2017 that Windows Phone would no longer push any updates and became only focusing on maintenance. We want to contribute in understanding how, why and when a SECO is turning on static (i.e., dying) and the "post mortem"status of a SECO. We initially study the Windows Phone from 46,030 questions in Stack Overflow to understand what happens to a SECO when the core platform is discontinued. From our result analysis we perceived that it can be useful to understanding the "vital signals"of ecosystem collapse, migratory/survival patterns, technical resource recycling and the energy transfer among individuals, populations, communities and SECOs. We also contributes with 14 insights. © 2020 ACM.
+AUTHOR KEYWORDS: Developer Relations; Software Ecosystem; Software Repositories
+INDEX KEYWORDS: Energy transfer; Investments; Software engineering; Telephone sets; Ecosystem collapse; It supports; Result analysis; Software ecosystems; Stack overflow; Technical resources; Vital signals; Windows phones; Ecosystems
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Tang X., Jia Z., Yang W.
+AUTHOR FULL NAMES: Tang, Xiaodan (57219936441); Jia, Zijun (58557656500); Yang, Wei (58557849500)
+57219936441; 58557656500; 58557849500
+Blockchain Application Status and Ecology
+(2022) Blockchain Application Guide: Methodology and Practice, pp. 35 - 48, Cited 0 times.
+DOI: 10.1007/978-981-19-5260-9_3
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85144776882&doi=10.1007%2f978-981-19-5260-9_3&partnerID=40&md5=114ef95752286392ebcad19191f634df
+
+ABSTRACT: In order to give a general view of the status of blockchain applications, an application-centered viewpoint is applied to the research of advancement both worldwide and in China. To begin, the policy aspects and application progresses are investigated, with the conclusion that governments are increasingly focusing on blockchain technology and application development. A Blockchain application ecosystem model is proposed, which includes three layers: environmental, organiza-tional and information system. The evolution of blockchain infrastructures, including EBSI, Diem, BSN, and other projects is examined, and an infrastructure ecosystem model is provided based on current trends. In terms of blockchain technology ecology, five prominent blockchain open source communities worldwide and in China are outlined, and the characteristics of global blockchain open source communities are discussed. © Publishing House of Electronics Industry 2022.
+AUTHOR KEYWORDS: Blockchain; Blockchain application; Ecosystem; Infrastructure; Open source community
+DOCUMENT TYPE: Book chapter
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Beller S.E., Monatesti S.J., Bachman P.
+AUTHOR FULL NAMES: Beller, Stephen E. (54895003600); Monatesti, Sabatini J. (8590303400); Bachman, Peter (57202286868)
+54895003600; 8590303400; 57202286868
+Whole Person Integrated Care (WPIC): A healthcare transformation strategy supported by a novel spreadsheet-based software framework
+(2017) GHTC 2017 - IEEE Global Humanitarian Technology Conference, Proceedings, 2017-January, pp. 1 - 10, Cited 0 times.
+DOI: 10.1109/GHTC.2017.8239223
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85047749034&doi=10.1109%2fGHTC.2017.8239223&partnerID=40&md5=2027e32a214ce85738cfa14b24b77a44
+
+ABSTRACT: This paper describes a humanitarian healthcare transformation strategy called Whole Person Integrated Care (WPIC). WPIC couples a Spreadsheet-based Software Framework (SSF) and a care delivery model that focus on increasing efficiency and effectiveness through evidence-based knowledge and action. This strategy: 1) integrates 'sick care' (treatment of health problems) with 'well care' (prevention and self-management) and 2) addresses both physical and psychological problems affecting a patient's health. The SSF currently utilizes Microsoft Excel to create simple, low-cost, and flexible software solutions that capture, import, export, transform, integrate, organize, store, analyze, render, and exchange data and information. Using a node-to-node (point-to-point) network architecture, clinicians, researchers, patients, and others can connect securely and resiliently, anywhere and anytime, across national and organizational boundaries. This allows collaborators to build, share, evaluate, and evolve evidence-based knowledge and analytic models. The shared knowledge and models are used to make projections, reveal existing problems, identify risks, and offer solutions that support decisions for clinical and business process improvement. The paper also describes an SSF application recently piloted in a Federal health information technology program, and proposes an open source community. © 2017 IEEE.
+AUTHOR KEYWORDS: analytical; biopsychosocial; collaboration; data exchange; decision support; framework; health information technology; healthcare; models; network architecture
+INDEX KEYWORDS: Application programs; Data flow analysis; Decision support systems; Electronic data interchange; Health care; Models; Open source software; Open systems; Patient treatment; Spreadsheets; analytical; biopsychosocial; collaboration; Decision supports; framework; Health information technologies; Network architecture
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+22nd International Conference on Agile Software Development, 2021
+(2021) Lecture Notes in Business Information Processing, 426, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85118108313&partnerID=40&md5=662922cd52411cd552f0a6e00af42bf0
+
+ABSTRACT: The proceedings contain 23 papers. The special focus in this conference is on Agile Software Development. The topics include: The EFIS Framework for Leveraging Agile Organizations Within Large Enterprises; the Future of Software Engineering: Where Will Machine Learning, Agile, and Virtualization Take Us Next?; the Stories We Tell: Experience, Research, or Patterns?; cherry Picking - Agile Software Development Teams Applying Design Thinking Tools; institutional Logics in Large-Scale Agile Software Development Transformations; multiple Roles of Middle Managers in Agile Project Governance: An Activity Theory Perspective; implementation of a Microservice-Based Certification Platform; towards Integrating Blockchains with Microservice Architecture Using Model-Driven Engineering; towards a Framework to Guide the Creation of Development Practices for Software Startups; using Guilds to Foster Internal Startups in Large Organizations: A Case Study; assessing the Health of the Dark Web:: An Analysis of Dark Web Open Source Software Projects; genesis of a Wood Harvesting B2B Software Platform; is Your Software Ecosystem in Danger? Preventing Ecosystem Death Through Lessons in Ecosystem Health; saaS Pricing Practices Typology: A Case Study; Impacts of COVID-19 Pandemic for Software Development in Nordic Companies – Agility Helps to Respond; innovation in Large-Scale Agile - Benefits and Challenges of Hackathons When Hacking from Home; a Service Mesh for Collaboration Between Geo-Distributed Services: The Replication Case; agile Transformation at Scale: A Tertiary Study; from Project to Product; preface; employee-Driven Innovation to Fuel Internal Software Startups: Preliminary Findings.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Craig-Wood K.
+AUTHOR FULL NAMES: Craig-Wood, Kate (24466152600)
+24466152600
+Running a business open source
+(2011) ITNOW, 53 (4), pp. 16 - 17, Cited 0 times.
+DOI: 10.1093/itnow/bwr020
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-79960435522&doi=10.1093%2fitnow%2fbwr020&partnerID=40&md5=93371336825d4eff66433074ba7dea30
+
+ABSTRACT: Open source is being considered as a viable option for a business as it provides better value for money, lower costs, increased productivity, and improved security. The software can be installed by downloading the open source software and then the applications is hosted as desired. Using open source software and adapting it as required, with fairly minimal development effort, it is possible to automate a large number of processes such as account billing, administration, provisioning, maintenance and monitoring activities so that they require very little staff input. Open source applications are more secure than their commercial equivalents as open source communities are generally able to find and fix security vulnerabilities much quicker than their corporate counterparts. Various companies also exist that host and manage these services for those lacking very basic systems administration skills.
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Massacci F., Pashchenko I.
+AUTHOR FULL NAMES: Massacci, Fabio (55167501300); Pashchenko, Ivan (57195998561)
+55167501300; 57195998561
+Technical leverage in a software ecosystem: Development opportunities and security risks
+(2021) Proceedings - International Conference on Software Engineering, pp. 1386 - 1397, Cited 5 times.
+DOI: 10.1109/ICSE43902.2021.00125
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85106532226&doi=10.1109%2fICSE43902.2021.00125&partnerID=40&md5=60ea6630a58b8eb6b97355000d6a8d06
+
+ABSTRACT: In finance, leverage is the ratio between assets borrowed from others and one's own assets. A matching situation is present in software: by using free open-source software (FOSS) libraries a developer leverages on other people's code to multiply the offered functionalities with a much smaller own codebase. In finance as in software, leverage magnifies profits when returns from borrowing exceed costs of integration, but it may also magnify losses, in particular in the presence of security vulnerabilities. We aim to understand the level of technical leverage in the FOSS ecosystem and whether it can be a potential source of security vulnerabilities. Also, we introduce two metrics change distance and change direction to capture the amount and the evolution of the dependency on third-party libraries. The application of the proposed metrics on 8494 distinct library versions from the FOSS Maven-based Java libraries shows that small and medium libraries (less than 100KLoC) have disproportionately more leverage on FOSS dependencies in comparison to large libraries. We show that leverage pays off as leveraged libraries only add a 4% delay in the time interval between library releases while providing four times more code than their own. However, libraries with such leverage (i.e., 75% of libraries in our sample) also have 1.6 higher odds of being vulnerable in comparison to the libraries with lower leverage. We provide an online demo for computing the proposed metrics for real-world software libraries available under the following URL: https://techleverage.eu/  © 2021 IEEE.
+AUTHOR KEYWORDS: Dependencies; Empirical analysis; Free open source software; Leverage; Maven; Software security; Technical debt; Vulnerabilities
+INDEX KEYWORDS: Codes (symbols); Ecosystems; Libraries; Open systems; Risk assessment; Dependency; Empirical analysis; Free/open source softwares; Leverage; Maven; Software ecosystems; Software libraries; Software security; Technical debts; Vulnerability; Open source software
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Pashchenko I., Plate H., Ponta S.E., Sabetta A., Massacci F.
+AUTHOR FULL NAMES: Pashchenko, Ivan (57195998561); Plate, Henrik (24476873000); Ponta, Serena Elisa (35111618100); Sabetta, Antonino (9039083700); Massacci, Fabio (55167501300)
+57195998561; 24476873000; 35111618100; 9039083700; 55167501300
+Vuln4Real: A Methodology for Counting Actually Vulnerable Dependencies
+(2022) IEEE Transactions on Software Engineering, 48 (5), pp. 1592 - 1609, Cited 13 times.
+DOI: 10.1109/TSE.2020.3025443
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85092534617&doi=10.1109%2fTSE.2020.3025443&partnerID=40&md5=623febee67c5ccb6963388239628e5cc
+
+ABSTRACT: Vulnerable dependencies are a known problem in today's free open-source software ecosystems because FOSS libraries are highly interconnected, and developers do not always update their dependencies. Our paper proposes Vuln4Real, the methodology for counting actually vulnerable dependencies, that addresses the over-inflation problem of academic and industrial approaches for reporting vulnerable dependencies in FOSS software, and therefore, caters to the needs of industrial practice for correct allocation of development and audit resources. To understand the industrial impact of a more precise methodology, we considered the 500 most popular FOSS Java libraries used by SAP in its own software. Our analysis included 25767 distinct library instances in Maven. We found that the proposed methodology has visible impacts on both ecosystem view and the individual library developer view of the situation of software dependencies: Vuln4Real significantly reduces the number of false alerts for deployed code (dependencies wrongly flagged as vulnerable), provides meaningful insights on the exposure to third-parties (and hence vulnerabilities) of a library, and automatically predicts when dependency maintenance starts lagging, so it may not receive updates for arising issues. © 1976-2012 IEEE.
+AUTHOR KEYWORDS: free open source software; mining software repositories; Vulnerable dependency
+INDEX KEYWORDS: Ecosystems; Information dissemination; Libraries; Open systems; Free open source softwares; Industrial practices; Java library; Library developers; Software dependencies; Third parties; Open source software
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Wang Y., Ye Y., Wu Y., Zhang W., Xue Y., Liu Y.
+AUTHOR FULL NAMES: Wang, Yuekun (58608969600); Ye, Yuhang (58608635500); Wu, Yueming (57202109788); Zhang, Weiwei (57203042605); Xue, Yinxing (35101120400); Liu, Yang (56911879800)
+58608969600; 58608635500; 57202109788; 57203042605; 35101120400; 56911879800
+Comparison and Evaluation of Clone Detection Techniques with Different Code Representations
+(2023) Proceedings - International Conference on Software Engineering, pp. 332 - 344, Cited 0 times.
+DOI: 10.1109/ICSE48619.2023.00039
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85171786042&doi=10.1109%2fICSE48619.2023.00039&partnerID=40&md5=a4da879f1da06fab62ab67400787b400
+
+ABSTRACT: As one of bad smells in code, code clones may increase the cost of software maintenance and the risk of vulnerability propagation. In the past two decades, numerous clone detection technologies have been proposed. They can be divided into text-based, token-based, tree-based, and graph-based approaches according to their code representations. Different code representations abstract the code details from different perspectives. However, it is unclear which code representation is more effective in detecting code clones and how to combine different code representations to achieve ideal performance. In this paper, we present an empirical study to compare the clone detection ability of different code representations. Specifically, we reproduce 12 clone detection algorithms and divide them into different groups according to their code representations. After analyzing the empirical results, we find that token and tree representations can perform better than graph representation when detecting simple code clones. However, when the code complexity of a code pair increases, graph representation becomes more effective. To make our findings more practical, we perform manual analysis on open-source projects to seek a possible distribution of different clone types in the open-source community. Through the results, we observe that most clone pairs belong to simple code clones. Based on this observation, we discard heavyweight graph-based clone detection algorithms and conduct combination experiments to find out a suitable combination of token-based and tree-based approaches for achieving scalable and effective code clone detection. We develop the suitable combination into a tool called TACC and evaluate it with other state-of-the-art code clone detectors. Experimental results indicate that TACC performs better and has the ability to detect large-scale code clones. © 2023 IEEE.
+AUTHOR KEYWORDS: Clone Detection; Code Representation; Empirical Study; Large Scale
+INDEX KEYWORDS: Abstracting; Cloning; Codes (symbols); Graphic methods; Open systems; Signal detection; Trees (mathematics); Clone detection; Clone detection algorithms; Clone detection techniques; Code clone; Code representation; Empirical studies; Graph representation; Graph-based; Large-scales; Simple++; Open source software
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Di Pilla P., Pareschi R., Salzano F., Zappone F.
+AUTHOR FULL NAMES: Di Pilla, Piergiuseppe (57807031000); Pareschi, Remo (56147716700); Salzano, Francesco (57807031100); Zappone, Federico (57219850097)
+57807031000; 56147716700; 57807031100; 57219850097
+Listening to what the system tells us: Innovative auditing for distributed systems
+(2023) Frontiers in Computer Science, 4, art. no. 1020946, Cited 0 times.
+DOI: 10.3389/fcomp.2022.1020946
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85146530619&doi=10.3389%2ffcomp.2022.1020946&partnerID=40&md5=d82dbb71ca0b9bddf0e0d43adf67846c
+
+ABSTRACT: Introduction: In recent years, software ecosystems have become more complex with the proliferation of distributed systems such as blockchains and distributed ledgers. Effective management of these systems requires constant monitoring to identify any potential malfunctions, anomalies, vulnerabilities, or attacks. Traditional log auditing methods can effectively monitor the health of conventional systems. Yet, they run short of handling the higher levels of complexity of distributed systems. This study aims to propose an innovative architecture for system auditing that can effectively manage the complexity of distributed systems using advanced data analytics, natural language processing, and artificial intelligence. Methods: To develop this architecture, we considered the unique characteristics of distributed systems and the various signals that may arise within them. We also felt the need for flexibility to capture these signals effectively. The resulting architecture utilizes advanced data analytics, natural language processing, and artificial intelligence to analyze and interpret the various signals emitted by the system. Results: We have implemented this architecture in the DELTA (Distributed Elastic Log Text Analyzer) auditing tool and applied it to the Hyperledger Fabric platform, a widely used implementation of private blockchains. Discussion: The proposed architecture for system auditing can effectively handle the complexity of distributed systems, and the DELTA tool provides a practical implementation of this approach. Further research could explore this approach's potential applications and effectiveness in other distributed systems. Copyright © 2023 Di Pilla, Pareschi, Salzano and Zappone.
+AUTHOR KEYWORDS: blockchain; distributes systems; Hyperledger Fabric; log analysis; log auditing; NLP
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Gold Open Access
+SOURCE: Scopus
+
+Jafari A.J., Costa D.E., Abdalkareem R., Shihab E., Tsantalis N.
+AUTHOR FULL NAMES: Jafari, Abbas Javan (57260698800); Costa, Diego Elias (57198365954); Abdalkareem, Rabe (57193842880); Shihab, Emad (23566819100); Tsantalis, Nikolaos (8839792600)
+57260698800; 57198365954; 57193842880; 23566819100; 8839792600
+Dependency Smells in JavaScript Projects
+(2022) IEEE Transactions on Software Engineering, 48 (10), pp. 3790 - 3807, Cited 9 times.
+DOI: 10.1109/TSE.2021.3106247
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85113347785&doi=10.1109%2fTSE.2021.3106247&partnerID=40&md5=cd2a223dd558a9de46ad836e9c68850f
+
+ABSTRACT: Dependency management in modern software development poses many challenges for developers who wish to stay up to date with the latest features and fixes whilst ensuring backwards compatibility. Project maintainers have opted for varied, and sometimes conflicting, approaches for maintaining their dependencies. Opting for unsuitable approaches can introduce bugs and vulnerabilities into the project, introduce breaking changes, cause extraneous installations, and reduce dependency understandability, making it harder for others to contribute effectively. In this paper, we empirically examine evidence of recurring dependency management issues (dependency smells). We look at the commit data for a dataset of 1,146 active JavaScript repositories to catalog, quantify and understand dependency smells. Through a series of surveys with practitioners, we identify and quantify seven dependency smells with varying degrees of popularity and investigate why they are introduced throughout project history. Our findings indicate that dependency smells are prevalent in JavaScript projects with two or more distinct smells appearing in 80 percent of the projects, but they generally infect a minority of a project's dependencies. Our observations show that the number of dependency smells tend to increase over time. Practitioners agree that dependency smells bring about many problems including security threats, bugs, dependency breakage, runtime errors, and other maintenance issues. These smells are generally introduced as developers react to dependency misbehaviour and the shortcomings of the npm ecosystem. © 1976-2012 IEEE.
+AUTHOR KEYWORDS: dependency management; Dependency smells; npm; software ecosystems
+INDEX KEYWORDS: Ecosystems; High level languages; Odors; Program debugging; Software design; Backward compatibility; Breakings; Computer bugs; Dependency management; Dependency smell; Guideline; Javascript; Npm; Runtimes; Software ecosystems; Semantics
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+BENEVOL 2022 - Proceedings of the Belgium-Netherlands Software Evolution Workshop
+(2022) CEUR Workshop Proceedings, 3245, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85140876609&partnerID=40&md5=085fd79e2317deefbf7c1d39a8a92dda
+
+ABSTRACT: The proceedings contain 10 papers. The topics discussed include: leveraging composability in model-based testing for microservices; a code search engine for software ecosystems; a preliminary study of rhythm and speed in the maven ecosystem; visualizing code reviews bottlenecks, from 2D to virtual reality; language-agnostic multi-paradigm code quality assurance framework; steps towards zero-touch mutation testing in Pharo; an empirical study of async wait flakiness in front-end testing; how to evaluate the power exercised over a free software project? an application to the case of the android project; FAIRSECO: an infrastructure for measuring impact of research software; and benchmarking the vulnerability detection capabilities of software analysis tools.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Pashchenko I., Plate H., Ponta S.E., Sabetta A., Massacci F.
+AUTHOR FULL NAMES: Pashchenko, Ivan (57195998561); Plate, Henrik (24476873000); Ponta, Serena Elisa (35111618100); Sabetta, Antonino (9039083700); Massacci, Fabio (55167501300)
+57195998561; 24476873000; 35111618100; 9039083700; 55167501300
+Vulnerable open source dependencies: Counting those that matter
+(2018) International Symposium on Empirical Software Engineering and Measurement, art. no. a42, Cited 51 times.
+DOI: 10.1145/3239235.3268920
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85061481100&doi=10.1145%2f3239235.3268920&partnerID=40&md5=d74fa6dcdc019e7f5e95ab0dc73fa112
+
+ABSTRACT: Background: Vulnerable dependencies are a known problem in today's open-source software ecosystems because OSS libraries are highly interconnected and developers do not always update their dependencies. Aim: Our paper addresses the over-inflation problem of academic and industrial approaches for reporting vulnerable dependencies in OSS software, and therefore, caters to the needs of industrial practice for correct allocation of development and audit resources. Method: Careful analysis of deployed dependencies, aggregation of dependencies by their projects, and distinction of halted dependencies allow us to obtain a counting method that avoids over-inflation. To understand the industrial impact of a more precise approach, we considered the 200 most popular OSS Java libraries used by SAP in its own software. Our analysis included 10905 distinct GAVs (group, artifact, version) in Maven when considering all the library versions. Results: We found that about 20% of the dependencies affected by a known vulnerability are not deployed, and therefore, they do not represent a danger to the analyzed library because they cannot be exploited in practice. Developers of the analyzed libraries are able to fix (and actually responsible for) 82% of the deployed vulnerable dependencies. The vast majority (81%) of vulnerable dependencies may be fixed by simply updating to a new version, while 1% of the vulnerable dependencies in our sample are halted, and therefore, potentially require a costly mitigation strategy. Conclusions: Our case study shows that the correct counting allows software development companies to receive actionable information about their library dependencies, and therefore, correctly allocate costly development and audit resources, which is spent inefficiently in case of distorted measurements. © 2018 ACM.
+AUTHOR KEYWORDS: Mining software repositories; Open-source software; Vulnerable dependency
+INDEX KEYWORDS: Libraries; Open systems; Software design; Industrial practices; Java library; Mining software repositories; Mitigation strategy; Open sources; Vulnerable dependency; Open source software
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access
+SOURCE: Scopus
+
+Prahofer H., Rabiser D., Angerer F., Grunbacher P., Feichtinger P.
+AUTHOR FULL NAMES: Prahofer, Herbert (15056569500); Rabiser, Daniela (57191506279); Angerer, Florian (55654960200); Grunbacher, Paul (55938737100); Feichtinger, Peter (57215114847)
+15056569500; 57191506279; 55654960200; 55938737100; 57215114847
+Feature-oriented development in industrial automation software ecosystems: Development scenarios and tool support
+(2016) IEEE International Conference on Industrial Informatics (INDIN), 0, art. no. 7819353, pp. 1218 - 1223, Cited 8 times.
+DOI: 10.1109/INDIN.2016.7819353
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85012914854&doi=10.1109%2fINDIN.2016.7819353&partnerID=40&md5=16fbe81ad60c0bb4e41560a19269a68c
+
+ABSTRACT: Due to increased market demands for highly customized and machine-specific solutions in manufacturing, industrial software systems are often developed as software product lines (SPL) and organized as software ecosystems (SECO) with internal and external developers composing individual solutions based on a common technological platform. In such settings, software development usually occurs in a multistage process: system variants initially derived from a platform are adapted and extended to meet specific requirements. This common approach, however, results in significant challenges for software development and maintenance. In this paper we review key challenges we have been observing when investigating our industrial partner's software ecosystems. We then present a feature-oriented development approach we have been developing to tackle those. Our approach is backed with static analysis methods to deal with system variants and versions created in software maintenance. © 2016 IEEE.
+INDEX KEYWORDS: Computer software; Computer software maintenance; Ecosystems; Industrial informatics; Static analysis; Development approach; Development scenarios; Industrial automation; Software development and maintenances; Software ecosystems; Software product lines; Static analysis method; Technological platform; Software design
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Evertse R., Lencz A., Šinik T., Jansen S., Soussi L.
+AUTHOR FULL NAMES: Evertse, Robert (57314877200); Lencz, Abel (57315296700); Šinik, Tea (57314466000); Jansen, Slinger (13610847800); Soussi, Lamia (57190029940)
+57314877200; 57315296700; 57314466000; 13610847800; 57190029940
+Is Your Software Ecosystem in Danger? Preventing Ecosystem Death Through Lessons in Ecosystem Health
+(2021) Lecture Notes in Business Information Processing, 426, pp. 96 - 105, Cited 3 times.
+DOI: 10.1007/978-3-030-88583-0_9
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85118170412&doi=10.1007%2f978-3-030-88583-0_9&partnerID=40&md5=f5e1ccfc32e4d36fc2e575a5f9d87184
+
+ABSTRACT: The health of an ecosystem is by definition the most basic requirement for its survival. This paper aims to examine the driving forces behind the health of software ecosystems, in a comparative manner between four different ecosystems which have experienced a major downfall. We examine these ecosystems for similarities, from which demise principles are derived. Consequently, countermeasures are proposed in an attempt to combat these demise principles. The findings show that the main demise principles are Underestimation of competitors, Lack of innovation, and Incorrect management of the ecosystem. The proposed countermeasures to address these demise principles are to Increase market awareness to increase competitive advantage, Increase product quality, Increase platform quality, Adjust value propositions and Formulate a partner-oriented strategy. © 2021, The Author(s).
+AUTHOR KEYWORDS: Demise countermeasures; Demise principles; End-of-life; Software ecosystem demise; Software ecosystem(s)
+INDEX KEYWORDS: Competition; Ecosystems; Competitive advantage; Demise countermeasure; Demise principle; Driving forces; Ecosystem health; End of lives; Software ecosystem demise; Software ecosystem(s); Software ecosystems; Health
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+OPEN ACCESS: All Open Access; Green Open Access; Hybrid Gold Open Access
+SOURCE: Scopus
+
+Niaetin S., Sandor R., Stupar G., Teslia N.
+AUTHOR FULL NAMES: Niaetin, Stefan (57205507049); Sandor, Robert (57205507119); Stupar, Goran (57188687874); Teslia, Nikola (57205507556)
+57205507049; 57205507119; 57188687874; 57205507556
+Maximizing the efficiency of automotive software development environment using open source technologies
+(2018) IEEE International Conference on Consumer Electronics - Berlin, ICCE-Berlin, 2018-September, art. no. 8576212, Cited 1 times.
+DOI: 10.1109/ICCE-Berlin.2018.8576212
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85060309623&doi=10.1109%2fICCE-Berlin.2018.8576212&partnerID=40&md5=9734659db2391bfd38f52a24c068c100
+
+ABSTRACT: The automotive industry is undergoing dramatic changes nowadays. New functionalities, such as complex digital cockpit solutions, driver assistance algorithms and more, are all software based. The shortening of the development time while maintaining a high quality of software releases is an uneasy task. Many solutions in this regard exist in the industry. However, the cost prevents the wider developer community from participating on fair terms. In this paper, we argue that many open source technologies and frameworks can be utilized in addition to field proven automotive development software. This way the total cost of the development, and time needed for testing and error checking can be reduced. Specifically, we extend the basic development process by utilizing open source build automation tools and servers to decrease the build and unit test time, and incorporate code based analysis tools for static and dynamic analysis. These tools increase the software quality, and can be combined with commercial application life cycle management tools, which are already used in the automotive industry. © 2018 IEEE.
+AUTHOR KEYWORDS: ALM; automated testing; automotive; continuous integration; development tools; IDE; software
+INDEX KEYWORDS: Application programs; Automobile drivers; Automotive industry; Computer software; Computer software selection and evaluation; Integration testing; Life cycle; Open source software; Open systems; Automated testing; automotive; Automotive development; Commercial applications; Continuous integrations; Development tools; Open-source technology; Static and dynamic analysis; Software design
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+ACM International Conference Proceeding Series
+(2017) ACM International Conference Proceeding Series, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85055495874&partnerID=40&md5=f55cd0e9da1a80d3756e6603f2783e76
+
+ABSTRACT: The proceedings contain 42 papers. The topics discussed include: hearing the voice of developers in mobile software ecosystems; how has the health of software ecosystems been evaluated? a systematic review; incremental strategy for applying mutation operators emphasizing faults difficult to be detected by automated static analyser; test case prioritization: a systematic review and mapping of the literature; an analysis of the empirical software engineering over the last 10 editions of Brazilian software engineering symposium; investigating the effectiveness of peer code review in distributed software development; tweaking association rules to optimize software change recommendations; what are software engineers asking about Android testing on stack overflow?; automatic generation of search-based algorithms applied to the feature testing of software product lines; comprehensibility of heterogeneous configuration knowledge: an user study; comparing configuration approaches for dynamic software product lines; late decomposition of applications into services through model-driven engineering; improving the structure of KDM instances via refactorings: an experimental study using KDM-RE; adding human interaction aspects in the writing of user stories: a perspective of software developers; students' engagement in open source projects : an analysis of Google summer of code; and software knowledge registration practices at software innovation startups - results of an exploratory study.
+DOCUMENT TYPE: Conference review
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Constantinou E., Decan A., Mens T.
+AUTHOR FULL NAMES: Constantinou, Eleni (54396822200); Decan, Alexandre (35931990200); Mens, Tom (6701719612)
+54396822200; 35931990200; 6701719612
+Breaking the borders: An investigation of cross-ecosystem software packages
+(2018) CEUR Workshop Proceedings, 2361, Cited 0 times.
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85065796700&partnerID=40&md5=63e63a20cc823aaa3374b51b7a0bcfd4
+
+ABSTRACT: Software ecosystems are collections of projects that are developed and evolve together in the same environment. Existing literature investigates software ecosystems as isolated entities whose boundaries do not overlap and assumes they are self-contained. However, a number of software projects are distributed in more than one ecosystem. As different aspects, e.g., success, security vulnerabilities, bugs, etc., of such cross-ecosystem packages can affect multiple ecosystems, we investigate the presence and characteristics of these cross-ecosystem packages in 12 large software distributions. We found a small number of packages distributed in multiple packaging ecosystems and that such packages are usually distributed in two ecosystems. These packages tend to better support with new releases certain ecosystems, while their evolution can impact a multitude of packages in other ecosystems. Finally, such packages appear to be popular with large developer communities. © 2018 CEUR-WS. All rights reserved.
+INDEX KEYWORDS: Program debugging; Security vulnerabilities; Software distributions; Software ecosystems; Software project; Ecosystems
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Lin J., Zhang H., Adams B., Hassan A.E.
+AUTHOR FULL NAMES: Lin, Jiahuei (57811652200); Zhang, Haoxiang (57219820191); Adams, Bram (15134994200); Hassan, Ahmed E. (7402686972)
+57811652200; 57219820191; 15134994200; 7402686972
+Vulnerability management in Linux distributions: An empirical study on Debian and Fedora
+(2023) Empirical Software Engineering, 28 (2), art. no. 47, Cited 0 times.
+DOI: 10.1007/s10664-022-10267-7
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85148332665&doi=10.1007%2fs10664-022-10267-7&partnerID=40&md5=9e13868eb01f3bf16bfef3a172b9426e
+
+ABSTRACT: Vulnerabilities in software systems not only lead to loss of revenue, but also to loss of reputation and trust. To avoid this, software providers strive to remedy vulnerabilities rapidly for their customers. However, in open-source development, the providers do not always control the distribution of their software themselves, but instead typically rely on Linux distributions to integrate and distribute upstream projects to millions of end users, which increases the difficulty of vulnerability management. In addition, an upstream project is usually packaged into several Linux distributions so that a vulnerability can propagate across multiple distributions via the upstream project. In this work, we empirically investigate a large number of vulnerabilities registered with the Common Vulnerabilities and Exposures (CVE) program in two popular Linux distributions, i.e., Debian (21,752 CVE-IDs) and Fedora (17,434 CVE-IDs), to study the practices of vulnerability management in such ecosystems. We investigate the lifecycle of fixing vulnerabilities, analyze how fast it takes for a vulnerability to go through each phase of its lifecycle, characterize the commonly occurring vulnerabilities that affect both distributions, and identify the practices that developers use to fix vulnerabilities. Our results suggest that the vulnerability testing period (i.e., the period from when the vulnerability fix is committed for testing to when the vulnerability fix is released) accounts for the largest number of days (median of 15 days) in Fedora. 74% (i.e., 16,070) and 92% (i.e., 16,070) of the vulnerabilities in Debian and Fedora, respectively, occur in both Linux distributions, which we refer to as common security vulnerabilities (CSVs). This result is impacted by the package selection and customization of the distributions. Finally, on a representative sample of 345 fixed CSVs, we find that upstream projects were responsible for fixing 303 (85%) and 267 (76%) out of the 345 CSVs in Debian and Fedora, respectively, with distribution maintainers integrating those fixes. Our work aims to gain a deeper understanding of the current practices in the vulnerability management of Linux distributions, and propose suggestions to distribution maintainers for better mitigation of the risks of vulnerabilities. © 2023, The Author(s), under exclusive licence to Springer Science+Business Media, LLC, part of Springer Nature.
+AUTHOR KEYWORDS: Developer coordination; Linux distributions; Open-source software ecosystems; Vulnerability management
+INDEX KEYWORDS: Ecosystems; Life cycle; Linux; Open systems; Common vulnerabilities and exposures; Developer coordination; Empirical studies; Linux distributions; Open-source software ecosystem; Open-source softwares; Security vulnerabilities; Software ecosystems; Software-systems; Vulnerability management; Open source software
+DOCUMENT TYPE: Article
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
+Soupinski F., Arantes P., Steinmacher I., Wiese I., Borges H., Cafeo B., Fontão A.
+AUTHOR FULL NAMES: Soupinski, Felipe (57912810900); Arantes, Pedro (57913882600); Steinmacher, Igor (36609225300); Wiese, Igor (6603482090); Borges, Hudson (24423938600); Cafeo, Bruno (55395460200); Fontão, Awdren (36598185300)
+57912810900; 57913882600; 36609225300; 6603482090; 24423938600; 55395460200; 36598185300
+"We are dying!" On Death Signals of Software Ecosystems
+(2022) ACM International Conference Proceeding Series, pp. 363 - 369, Cited 1 times.
+DOI: 10.1145/3555228.3555264
+https://www.scopus.com/inward/record.uri?eid=2-s2.0-85139118990&doi=10.1145%2f3555228.3555264&partnerID=40&md5=48527211a498713d625f8fb100cd7eb6
+
+ABSTRACT: Software Ecosystems (SECO) depend on platforms that serve as environments for developers interaction. When the organization that owns the platform does not support the synergy between organizational goals and developers' expectations, the SECO may die. The death results in the definitive suspension of vital activities, directly impacting developers, who lose part of the learning and experience gained. Projects that depend on the SECO platform may be discontinued. Ultimately, the responsible corporation loses the resources invested in the development and maintenance of the software and communities. Thus, understanding the signs that may indicate a SECO death is important. In this paper, we report a study conducted on StackOverflow (SO) and GitHub (GH) focusing on Web SECOs: AngularJS, PhantomJS, and Moment.JS. We analyzed metrics based on answer rates, closed issues, and modified files to understand what happens in these SECOs before, during, and after the platform's death. We identified that an SO answer rate below 0.8 is a sign of risk. In GH, the files that involve source code and text are the ones that concentrate on the activities before and during death. © 2022 Association for Computing Machinery. All rights reserved.
+INDEX KEYWORDS: Organizational goals; Software ecosystems; Source codes; Source text; Ecosystems
+DOCUMENT TYPE: Conference paper
+PUBLICATION STAGE: Final
+SOURCE: Scopus
+
